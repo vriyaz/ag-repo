@@ -1,0 +1,1 @@
+var appMenu = ["hello", "world"];

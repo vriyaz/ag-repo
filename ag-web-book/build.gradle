@@ -1,0 +1,52 @@
+buildscript {
+  repositories {
+    jcenter()
+  }
+  dependencies {
+    classpath "com.eriwen:gradle-js-plugin:1.12.1"
+  }
+}
+
+apply plugin: "com.eriwen.gradle.js"
+apply plugin: "war"
+
+javascript.source {
+    dev {
+        js {
+            srcDir "${projectDir}/src/main/js"
+            include "*.js"
+            exclude "*.min.js"
+        }
+    }
+    prod {
+        js {
+            srcDir "${projectDir}/src/main/js"
+            include "*.min.js"
+        }
+    }
+}
+
+combineJs {
+    source = javascript.source.dev.js.files
+    dest = file("${projectDir}/build/ag.js")
+}
+
+minifyJs {
+	source = combineJs
+	dest = file("${projectDir}/build/ag-min.js")
+	sourceMap = file("${projectDir}/webapp/js/all.sourcemap.json")
+	closure {
+		warningLevel = "QUIET"
+	}
+}
+
+// Create new CombineJsTasks if you have multiple sets of JS files
+task jsDev(type: com.eriwen.gradle.js.tasks.CombineJsTask) {
+    source = ["${projectDir}/js/app.js", "${projectDir}/js/app-conf.js"]
+    dest = file("${buildDir}/all-debug.js")
+}
+
+task jsProd(type: com.eriwen.gradle.js.tasks.CombineJsTask) {
+    source = ["${projectDir}/js/app.js", "${projectDir}/js/app-conf.js"]
+    dest = file("${buildDir}/all.js")
+}
