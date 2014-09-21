@@ -42,11 +42,11 @@ minifyJs {
 
 // Create new CombineJsTasks if you have multiple sets of JS files
 task jsDev(type: com.eriwen.gradle.js.tasks.CombineJsTask) {
-    source = ["${projectDir}/js/app.js", "${projectDir}/js/app-conf.js"]
+    source = ["${projectDir}/js/app-book.js", "${projectDir}/js/app-conf.js"]
     dest = file("${buildDir}/all-debug.js")
 }
 
 task jsProd(type: com.eriwen.gradle.js.tasks.CombineJsTask) {
-    source = ["${projectDir}/js/app.js", "${projectDir}/js/app-conf.js"]
+    source = ["${projectDir}/js/app-book.js", "${projectDir}/js/app-conf.js"]
     dest = file("${buildDir}/all.js")
 }

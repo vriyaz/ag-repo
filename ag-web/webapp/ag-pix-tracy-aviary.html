@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,50 +13,55 @@
 	<script src="/ag-cdn/js/jquery.min.js"></script>
 	<script src="/ag-cdn/js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>	
+	<script src="http://imsky.github.com/holder/holder.js"></script>
 	
-	<title>Ag Web</title>
+	<script src="js/ag-app-pix.js"></script>
+	<title>Ag Pix: Tracy Aviary</title>
 </head>
-<body>
+
+<body ng-app="AgPixApp" ng-controller="AgPixController" ng-init="init('tracy-aviary')">
 	<!-- Navigation / Fixed navbar -->
 	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
+			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">Ag Web</a>
+				<a class="navbar-brand" href="#">Ag Pix | {{imageList.title}}</a>
 			</div>
 			<div class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Ag Books<span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="ag-book-aow.html">Art of War</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Ag Pix<span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="ag-pix-tracy-aviary.html">Tracy Aviary</a></li>
-						</ul>
-					</li>
-					<li><a href="index.html">Ag Quotes</a></li>
-					<li><a href="index.html">Ag Bookmarks</a></li>
-					<li><a href="index.html">Ag Agile Planner</a></li>
-				</ul>
 				<ul class="nav navbar-nav pull-right">
 					<li><a href="index.html">Ag Web</a></li>
 				</ul>
 			</div>
-			
 			<!--/.nav-collapse -->
 		</div>
 	</div>
 
-
 	<div class="container theme-showcase" role="main">
-
-		<div class="jumbotron"><h1>Web Apps</h1><br><br>big &amp; small</div>
+		
+		<div id="carousel-pix" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li ng-repeat="file in imageList.images" data-target="#carousel-pix" data-slide-to="{{$index}}" ng-class="$index==0 ? 'active' : ''"></li>
+			</ol>
+			<div class="carousel-inner">
+				<div ng-repeat="file in imageList.images" ng-class="$index==0 ? 'item active' : 'item'">
+					<img ng-src="assets/tracy-aviary/{{file}}" alt="{{$index}} {{file}} slide">
+				</div>
+			</div>
+			<a class="left carousel-control" href="#carousel-pix" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left"></span>
+			</a>
+			<a class="right carousel-control" href="#carousel-pix" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>
+		</div>
+		
+		<div>
+			<p align="right"><small>(c) 2014</small></p>
+		</div>
 	</div>
+
 </body>
 </html>

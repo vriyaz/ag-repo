@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,43 +12,38 @@
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="/ag-cdn/js/jquery.min.js"></script>
 	<script src="/ag-cdn/js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
-	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>	
+	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>
 	
-	<title>Ag Web</title>
+	<script src="js/ag-app-book.js"></script>
+	<title>Ag Book: Art of War</title>
 </head>
-<body>
+
+<body ng-app="AgBookApp" ng-controller="AgBookController" ng-init="init('art-of-war')">
 	<!-- Navigation / Fixed navbar -->
 	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
+			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">Ag Web</a>
+				<a class="navbar-brand" href="#">Ag Books | {{book.title | agTitleCase}}</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Ag Books<span class="caret"></span></a>
+					<li class="dropdown" ng-repeat="section in book.section">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{section.title | agTitleCase}} <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="ag-book-aow.html">Art of War</a></li>
+							<li ng-repeat="chapter in section.chapter">
+								<a ng-click="setChapter(chapter.title)">{{ chapter.title | agTitleCase}}</a>
+							</li>
 						</ul>
 					</li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Ag Pix<span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="ag-pix-tracy-aviary.html">Tracy Aviary</a></li>
-						</ul>
-					</li>
-					<li><a href="index.html">Ag Quotes</a></li>
-					<li><a href="index.html">Ag Bookmarks</a></li>
-					<li><a href="index.html">Ag Agile Planner</a></li>
 				</ul>
 				<ul class="nav navbar-nav pull-right">
 					<li><a href="index.html">Ag Web</a></li>
 				</ul>
 			</div>
-			
 			<!--/.nav-collapse -->
 		</div>
 	</div>
@@ -57,7 +51,23 @@
 
 	<div class="container theme-showcase" role="main">
 
-		<div class="jumbotron"><h1>Web Apps</h1><br><br>big &amp; small</div>
+		<div>
+			<ag-title-block ag-title="{{book.title}}" ag-subtitle="{{currentChapter.title}}" />
+		</div>
+		
+		<div ng-show="currentChapter">
+			<div ng-repeat="paragraph in currentChapter.paragraph">
+				<div ng-show="paragraph.list">
+					<div ng-repeat="list in paragraph.list">
+						<li>{{list}}</li>
+					</div>
+					<br>
+				</div>
+				<div ng-hide="paragraph.list">
+					<p>{{paragraph}}</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </body>
 </html>

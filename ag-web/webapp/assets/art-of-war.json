@@ -1,4 +1,4 @@
-var book = {
+{
     "title": "art of war",
     "author": "sun tzu",
     "section": [
@@ -569,4 +569,4 @@ var book = {
         ]
       }
     ]
- };
+ }
