@@ -54,7 +54,7 @@
     			agTitle: '@',
     			agSubtitle: '@'
     		},
-    		template: '<div class="jumbotron"><h1>{{agTitle | agTitleCase}} / <small><small> {{agSubtitle | agTitleCase}} </small></small></h1></div>' 
+    		template: '<div class="jumbotron"><h1>{{agTitle | agTitleCase}} <small><small><span ng-if="agSubtitle">/</span> {{agSubtitle | agTitleCase}} </small></small></h1></div>' 
     	};    	
     });
 })();
