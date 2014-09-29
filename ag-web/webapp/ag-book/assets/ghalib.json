@@ -1,0 +1,806 @@
+{
+    "title" : "Ghazals by Ghalib",
+
+    "sections" : 
+    [ 
+	  {
+	  	"sectionTitle" : "Introduction",
+		"chapters": 
+		 [
+		 	{
+		 		"chapterTitle":"about-the-author",
+		 		"paragraphs": [
+			        "Mirza Asadullah Beg Khan -- known to posterity as Ghalib, a `nom de plume' he adopted in the tradition of all clasical Urdu poets, was born in the city of Agra, of parents with Turkish aristocratic ancestry, probably on December 27th, 1797. As to the precise date, Imtiyaz Ali Arshi has conjectured, on the basis of Ghalib's horoscope, that the poet might have been born a month later, in January 1798.",
+			        "Both his father and uncle died while he was still young, and he spent a good part of his early boyhood with his mother's family.  This, of course, began a psychology of ambivalences for him. On the one hand, he grew up relatively free of any oppressive dominance by adult, male-dominant figures. This, it seems to me, accounts for at least some of the independent spirit he showed from very early child- hood. On the other hand, this placed him in the humiliating situation of being socially and economically dependent on maternal grandparents, giving him, one can surmise, a sense that whatever worldly goods he received were a matter of charity and not legitimately his. His pre- occupation in later life with finding secure, legitimate, and comfortable means of livelihood can be perhaps at least partially understood in terms of this early uncertainity.",
+			        "The question of Ghalib's early education has often confused Urdu scholars. Although any record of his formal education that might exist is extremely scanty, it is also true that Ghalib's circle of friends in Delhi included some of the most eminent minds of his time.  There is, finally, irrevocably, the evidence of his writings, in verse as well as in prose, which are distinguished not only by creative excellence but also by the great knowledge of philosophy, ethics, theology, classical literature, grammar, and history that they reflect.  I think it is reasonable to believe that Mulla Abdussamad Harmuzd -- the man who was supposedly Ghalib's tutor, whom Ghalib mentions at times with great affection and respect, but whose very existence he denies -- was, in fact, a real person and an actual tutor of Ghalib when Ghalib was a young boy in Agra. Harmuzd was a Zoroastrian from Iran, converted to Islam, and a devoted scholar of literature, language, and religions. He lived in anonymity in Agra while tutoring Ghalib, among others.",
+			        "In or around 1810, two events of great importance occured in Ghalib's life: he was married to a well-to-do, educated family of nobles, and he left for Delhi. One must remember that Ghalib was only thirteen at the time. It is impossible to say when Ghalib started writing poetry. Perhaps it was as early as his seventh or eight years.  On the other hand, there is evidence that most of what we know as his complete works were substantially completed by 1816, when he was 19 years old, and six years after he first came to Delhi. We are obviously dealing with a man whose maturation was both early and rapid. We can safely conjecture that the migration from Agra, which had once been a capital but was now one of the many important but declining cities, to Delhi, its grandeur kept intact by the existence of the moghul court, was an important event in the life of this thirteen year old, newly married poet who desparately needed material security, who was beginning to take his career in letters seriously, and who was soon to be recognized as a genius, if not by the court, at least some of his most important comtemporaries. As for the marriage, in the predomin- antly male-oriented society of Muslim India no one could expect Ghalib to take that event terribly seriously, and he didn't. The period did, however mark the beginnings of concern with material advancement that was to obsess him for the rest of his life.",
+			        "In Delhi Ghalib lived a life of comfort, though he did not find immediate or great success. He wrote first in a style at once detached, obscure, and pedantic, but soon thereafter he adopted the fastidious, personal, complexly moral idiom which we now know as his mature style. It is astonishing that he should have gone from sheer precocity to the extremes of verbal ingenuity and obscurity, to a style which, next to Meer's, is the most important and comprehensive styles of the ghazal in the Urdu language before he was even twenty.",
+			        "The course of his life from 1821 onward is easier to trace.  His interest began to shift decisively away from Urdu poetry to Persian during the 1820's, and he soon abandoned writing in Urdu almost altogether, except whenever a new edition of his works was forthcoming and he was inclined to make changes, deletions, or additions to his already existing opus. This remained the pattern of his work until 1847, the year in which he gained direct access to the Moghul court.  I think it is safe to say that throughout these years Ghalib was mainly occupied with the composition of the Persian verse, with the preparation of occasional editions of his Urdu works which remained essentially the same in content, and with various intricate and exhausting proceedings undertaken with a view to improving his financial situation, these last consisting mainly of petitions to patrons and government, including the British.  Although very different in style and procedure, Ghalib's obsession with material means, and the accompanying sense of personal insecurity which seems to threaten the very basis of selfhood, reminds one of Bauldeaire. There is, through the years, the same self-absorption, the same overpowering sense of terror which comes from the necessities of one's own creativity and intelligence, the same illusion -- never really believed viscerrally -- that if one could be released from need one could perhaps become a better artist. There is same flood of complaints, and finally the same triumph of a self which is at once morbid, elegant, highly creative, and almost doomed to realize the terms not only of its desperation but also its distinction.",
+			        "Ghalib was never really a part of the court except in its very last years, and even then with ambivalence on both sides . There was no love lost between Ghalib himself and Zauq, the king's tutor in the writing of poetry; and if their mutual dislike was not often openly expressed, it was a matter of prudence only. There is reason to believe that Bahadur Shah Zafar, the last Moghul king, and himself a poet of considerable merit, did not much care for Ghalib's style of poetry or life. There is also reason to believe that Ghalib not only regarded his own necessary subservient conduct in relation to the king as humiliating but he also considered the Moghul court as a redundant institution. Nor was he well-known for admiring the king's ghazal.  However, after Zauq's death Ghalib did gain an appiontment as the king's advisor on  matters of versifiaction. He was also appointed, by royal order, to write the official history of the Moghul dynasty, a project which was to be titled 'Partavistan' and to fill two volumes.  The one volume 'Mehr-e-NeemRoz', which Ghalib completed is an indifferent work, and the second volume was never completed, supposedly because of the great disturbances caused by the Revolt of 1857 and the consequent termination of the Moghul rule. Possibly Ghalib's own lack of interest in the later Moghul kings had something to do with it.",
+			        "The only favouarble result of his connection with the court between 1847 and 1857 was that he resumed writing in Urdu with a frequency not experienced since the early 1820's. Many of these new poems are not panegyrics, or occasional ghazal to celebrate this or that. He did, however, write many ghazals which are of the same excellence and temper as his early great work. Infact, it is astonis- hing that a man who had more or less given up writing in Urdu thirty years before should, in a totally different time and circumstance, produce work that is, on the whole, neither worse nor better than his earlier work. One wonders just how many great poems were permanently lost to Urdu when Ghalib chose to turn to Persian instead.",
+			        "In its material dimensions, Ghalib's life never really took root and remained always curiously unfinished. In a society where almost everybody seems to have a house of his own, Ghalib never had one and always rented one or accepted the use of one from a patron.  He never had books of his own, usually reading borrowed ones. He had no children; the ones he had, died in infancy, and he later adopted the two children of Arif, his wife's nephew who died young in 1852.  Ghalib's one wish, perhaps as strong as the wish to be a great poet, that he should have a regular, secure income, never materialized. His brother Yusuf, went mad in 1826, and died, still mad, in that year of all misfortunes, 1857. His relations with his wife were, at best, tentative, obscure and indifferent. Given the social structure of mid-nineteenth-century Muslim India, it is, of course, inconceivable that *any* marriage could have even begun to satisfy the moral and intellectual intensities that Ghalib required from his relationships; given that social order, however, he could not conceive that his marriage could serve that function. And one has to confront the fact that the child never died who, deprived of the security of having a father in a male-oriented society, had had looked for material but also moral certainities -- not certitudes, but certainities, something that he can stake his life on.  So, when reading his poetry it must be remembered that it is the poetry of more than usually vulnerable existence.",
+			        "It is difficult to say precisely what Ghalib's attitude was toward the British conquest of India. The evidence is not only contradictory but also incomplete. First of all, one has to realize that nationalism as we know it today was simply non-existent in nineteenth-century India. Second --one has to remember -- no matter how offensive it is to some -- that even prior to the British, India had a long history of invaders who created empires which were eventu- ally considered legitimate. The Moghuls themselves were such invaders.  Given these two facts, it would be unreasonable to expect Ghalib to have a clear ideological response to the British invasion. There is also evidence, quite clearly deducible from his letters, that Ghalib was aware, on the one hand, of the redundancy, the intrigues, the sheer poverty of sophistication and intellectual potential, and the lack of humane responses from the Moghul court, and, on the other, of the powers of rationalism and scientific progress of the West.",
+			        "Ghalib had many attitudes toward the British, most of them complicated and quite contradictory. His diary of 1857, the 'Dast-Ambooh' is a pro-British document, criticizing the British here and there for excessively harsh rule but expressing, on the whole, horror at the tactics of the resistance forces. His letters, however, are some of the most graphic and vivid accounts of British violence that we possess. We also know that 'Dast-Ambooh' was always meant to be a document that Ghalib would make public, not only to the Indian Press but specifically to the British authorities. And he even wanted to send a copy of it to Queen Victoria. His letters, are to the contr- ary, written to people he trusted very much, people who were his friends and would not divulge their contents to the British authori- ties. As Imtiyaz Ali Arshi has shown (at least to my satisfaction), whenever Ghalib feared the intimate, anti-British contents of his letters might not remain private, he requested their destruction, as he did in th case of the Nawab of Rampur. I think it is reasonable to conjecture that the diary, the 'Dast-Ambooh', is a document put together by a frightened man who was looking for avenues of safety and forging versions of his own experience in order to please his oppr- essors, whereas the letters, those private documents of one-to-one intimacy, are more real in the expression of what Ghalib was in fact feeling at the time. And what he was feeling, according to the letters, was horror at the wholesale violence practised by the British.",
+			        "Yet, matters are not so simple as that either. We cannot explain things away in terms of altogether honest letters and an altogether dishonest diary. Human and intellectual responses are more complex. The fact that Ghalib, like many other Indians at the time, admired British, and therfore Western, rationalism as expressed in constitutional law, city planning and more. His trip to Calcutta (1828-29) had done much to convince him of the immediate values of Western pragmatism. This immensely curious and human man from the narrow streets of a decaying Delhi, had suddenly been flung into the broad, well-planned avenues of 1828 Calcutta -- from the aging Moghul capital to the new, prosperous and clean capital of the rising British power, and, given the preco- ciousness of his mind, he had not only walked on clean streets, but had also asked the fundamental questions about the sort of mind that planned that sort of city. In short, he was impressed by much that was British.",
+			        "In Calcutta he saw cleanliness, good city planning, prosperity.  He was fascinated by the quality of the Western mind which was rational and could conceive of constitutional government, republicanism, skepticism. The Western mind was attractive particularly to one who, although fully imbued with his feudal and Muslim background, was also attracted by wider intelligence like the one that Western scientific thought offered: good rationalism promised to be good government. The sense that this very rationalism, the very mind that had planned the first modern city in India, was also in the service of a brutral and brutalizing mercantile ethic which was to produce not a humane society but an empire, began to come to Ghalib only when the onslaught of 1857 caught up with the Delhi of his own friends. Whatever admiration he had ever felt for the British was seriously brought into question by the events of that year, more particularly by the merciless-ness of the British in their dealings with those who participated in or sympathized with the Revolt. This is no place to go into the details of the massacre; I will refer here only to the recent researches of Dr. Ashraf (Ashraf, K.M., 'Ghalib & The Revolt of 1857', in Rebellion 1857, ed., P.C. Joshi, 1957), in India, which prove that at least 27,000 persons were hanged during the summer of that one year, and Ghalib witnessed it all. It was obviously impossible for him to reconcile this conduct with whatever humanity and progressive ideals he had ever expected the Briish to have possessed.  His letters tell of his terrible dissatisfaction.",
+			        "Ghalib's ambivalence toward the British possibly represents a characteristic dilemma of the Indian --- indeed, the Asian -- people.  Whereas they are fascinated by the liberalism of the Western mind and virtually seduced by the possibility that Western science and technology might be the answer to poverty and other problems of their material existence, they feel a very deep repugnance for forms and intensities of violence which are also peculiarly Western. Ghalib was probably not as fully aware of his dilemma as the intellectuals of today might be; to assign such awareness to a mid-nineteenth-century mind would be to violate it by denying the very terms -- which means limitations --, as well -- of its existence. His bewilderment at the extent of the destruction caused by the very people of whose humanity he had been convinced can, however, be understood in terms of this basic ambivalence.",
+			        "The years between 1857 and 1869 were neither happy nor very eventful ones for Ghalib. During the revolt itself, Ghalib remained pretty much confined to his house, undoubtedly frightened by the wholesale masacres in the city. Many of his friends were hanged, deprived of their fortunes, exiled from the city, or detained in jails.  By October 1858, he had completed his diary of the Revolt, the 'Dast-Ambooh', published it, and presented copies of it to the British authorities, mainly with the purpose of proving that he had not supported the insurrections. Although his life and immediate possesions were spared, little value was attached to his writings; he was flatly told that he was still suspected of having had loyalties toward the Moghul king. During the ensuing years, his main source of income continued to be the stipend he got from the Nawab of Rampur.  'Ud-i-Hindi', the first collection of his letters, was published in October 1868. Ghalib died a few months later, on February 15th, 1869."
+			    ]
+		     },
+		     {
+		     	"chapterTitle":"about-the-book",
+		     	"paragraphs": [ "..." ]
+		     },
+		     {
+		     	"chapterTitle":"pronunciation-guide",
+		     	"paragraphs":[
+		     		"(a) Vowel pronunciation key.",
+					"'a'  as  'u'  in  cut",
+					"'aa' as  'a'  in  car",
+					"'i'  as  'i'  in  fit",
+					"'ee' as  'ee' in  feel",
+					"'u'  as  'u'  in  put",
+					"'oo' as  'oo' in  pool",
+					"'e'  as  'e'  in  bed",
+					"'ai' as  'ei' in  neighbour",
+					"'o'  as  'o'  in  mode",
+					"'au' as  'ow' in  how",
+					"(b) Words ending with an 'a' should be pronounced as 'a' in 'car'.",
+					"Examples :   'kya'   =  what",
+					"'nateeja' =  result",
+					"(c) Guttural sounds (capital letters) :",
+					"Examples : 'GH' as in  'GHam'   =  sorrow",
+					"'KH' as in 'KHayaal' =  thought",
+					"(d) Use of 'N' for nasal sounds :",
+					"Examples :  'maiN'    =  me",
+					"'meiN'    =  in",
+					"'aasmaaN'  =  sky",
+					"(e) Note the distinction in usage between :",
+					"(i)   'i' and 'ee'",
+					"Examples : 'nigaah'  =  sight",
+					"'nishaan' =  mark/sign",
+					"'teer'  =  arrow",
+					"'hakeem'  =  physician/doctor",
+					"(ii)  'k' and 'q'",
+					"Examples : 'shauq'  =  fondness/desire",
+					"'qaabil' =  worthy",
+					"'kamar'  =  waist",
+					"'KHaak'  =  dust/ashes",
+					"(iii) small and capital letters",
+					"Examples : 't'  as  't'  in  with",
+					"'T'  as  't'  in  metal"
+		     	]
+		     }
+	    ]
+	  },
+	  {
+	  	"sectionTitle" : "Ghazals [A-I]",
+	 	"chapters" : 
+	 	  [ 
+			  {
+			   "chapterNo": "0",
+			   "chapterTitle": "aa, ki meree jaan ko qaraar naheeN hai",
+			   "paragraphs": [
+			     { "line1":"aa, ki meree jaan ko qaraar naheeN hai", "line2":"taaqat-e-bedaad-e-intazaar naheeN hai", "dict":"qaraar = rest/repose, bedaad = injustice" },
+			     { "line1":"dete haiN jannat hayaat-e-dahar ke badle", "line2":"nashsha ba_andaaza-e-KHummaar naheeN hai", "dict":"hayaat = life, dahar = world, ba_andaaza = according to, KHummaar = intoxication" },
+			     { "line1":"giriya nikaale hai teree bazm se mujh ko", "line2":"haay ! ki roone pe iKHtiyaar naheeN hai", "dict":"giriya = weeping, iKHtiyaar = control" },
+			     { "line1":"hamse 'abas hai gumaan-e-ranjish-e-KHaatir", "line2":"KHaak meiN ushshaaq kee GHubaar naheeN hai", "dict":"'abas = indifferent, gumaan = suspicion, ranjish = unpleasantness, KHaak = ashes/dust, ushshaaq = lovers, GHubaar = clouds of dust" },
+			     { "line1":"dil se uThaa lutf-e-jalva haay ma'anee", "line2":"GHair-e-gul aainaa-e-bahaar naheeN hai", "dict":"ma'anee = meanings, GHair-e-gul = blossoms" },
+			     { "line1":"qatl ka mere kiya hai 'ahad to baare", "line2":"waae ! akhar 'ahad ustuwaar naheeN hai", "dict":"'ahad = promise, baare = at last, ustuwaar = frim/determined" },
+			     { "line1":"toone qasam mai_kashee kee khaaee hai 'GHalib'", "line2":"teree qasam ka kuchch 'eitbaar naheeN hai !", "dict":"mai_kashee = boozing, 'eitbaar = trust/faith" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "1",
+			   "chapterTitle": "aah ko chaahiye ik 'umr asar hone tak",
+			   "paragraphs": [
+			     { "line1":"aah ko chaahiye ik 'umr asar hone tak", "line2":"kaun jeeta hai teree zulf ke sar hone tak ?" },
+			     { "line1":"daam har mauj meiN hai halqa-e-sad_kaam-e-nahaNg", "line2":"dekhaiN kya guzre hai qatre pe guhar hone tak", "dict":"daam = net/trap, mauj = wave, halqa = ring/circle, sad = hundred, nahaNg = crocadile, sad_kaam-e-nahaNg = crocadile with a hundred jaws, guhar = pearl" },
+			     { "line1":"aashiqee sabr talab aur tamanna betaab", "line2":"dil ka kya rang karooN KHoon-e-jigar hone tak ?", "dict":"sabr = patience, talab = search" },
+			     { "line1":"ham ne maana ke taGHaful na karoge, lekin", "line2":"KHaak ho jaayeNge ham tumko KHabar hone tak", "dict":"taGHaful = neglect/ignore" },
+			     { "line1":"partav-e-khur se hai shabnam ko fana'a ki taaleem", "line2":"maiN bhee hooN ik inaayat ki nazar hone tak", "dict":"partav-e-khur = sun's reflection/light/image, shabnam = dew, fana'a = mortality, inaayat = favour" },
+			     { "line1":"yak_nazar besh naheeN fursat-e-hastee GHaafil", "line2":"garmi-e-bazm hai ik raqs-e-sharar hone tak", "dict":"besh = too much/lots, fursat-e-hastee = duration of life, GHaafil = careless, raqs = dance, sharar = flash/fire" },
+			     { "line1":"GHam-e-hastee ka 'Asad' kis'se ho juz marg ilaaz", "line2":"shamma'a har rang meiN jaltee hai sahar hone tak", "dict":"hastee = life/existence, juz = other than, marg = death, sahar = morning" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "2",
+			   "chapterTitle": "arz-e-niyaaz-e-ishq ke qaabil naheeN raha",
+			   "paragraphs": [
+			     { "line1":"arz-e-niyaaz-e-ishq ke qaabil naheeN raha", "line2":"jis dil pe naaz tha mujhe wo dil naheeN raha", "dict":"niyaaz = desire/an offering" },
+			     { "line1":"jaata hooN daaGH-e-hasarat-e-hastee liye hue", "line2":"hooN shamma'a_kushta darKHur-e-mehfil naheeN raha", "dict":"hastee = life/existence, shamma'a_kushta = extinguished lamp, darKHur = worthy" },
+			     { "line1":"marne ki 'ei dil aur hee tadabeer kar ki maiN", "line2":"shaayaan-e-dast-o-baazu-e-qaatil naheeN rahaa", "dict":"tadabeer = solution/remedy, shaayaan = worthy, dast = hand, baazoo = shoulder" },
+			     { "line1":"bararoo-e-shash jihat dar-e-aaina_baaz hai", "line2":"yaaN imtiaz-e-naakis-o-qaamil naheeN rahaa", "dict":"bararoo = in front, shash = six, jihat = direction, imtiaz = distinction, naakis = cunning, qaamil = intelligent" },
+			     { "line1":"waa kar diye haiN shauq ne band-e-naqaab-e-husn", "line2":"GHair_az nigaah ab koee haayal naheeN raha", "dict":"waa = open, GHair_az = other than, haayal = obstacle" },
+			     { "line1":"go maiN raha, rahee na sitam haaye rozgaar", "line2":"lekin tere KHayaal se GHaafil naheeN raha", "dict":"sitam = oppression, GHaafil = unaware/careless" },
+			     { "line1":"dil se hawa-e-kisht-e-wafa miT gayee ki waaN", "line2":"haasil siwaay hasrat-e-haasil naheeN raha" },
+			     { "line1":"bedaad-e-ishq se naheeN Darta magar 'Asad'", "line2":"jis dil pe naaz tha mujhe wo dil naheeN raha", "dict":"bedaad = injustice" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "3",
+			   "chapterTitle": "baazeechaa-e-atfaal hai duniya mere aage",
+			   "paragraphs": [
+			     { "line1":"baazeechaa-e-atfaal hai duniya mere aage", "line2":"hota hai shab-o-roz tamaasha mere aage", "dict":"baazeechaa = play/sport, atfaal = children" },
+			     { "line1":"ik khel hai auraNg-e-sulemaaN mere nazdeek", "line2":"ik baat hai 'eijaz-e-maseeha mere aage", "dict":"auraNg = throne, 'eijaz = miracle" },
+			     { "line1":"juz naam naheeN soorat-e-aalam mujhe manzoor", "line2":"juz waham naheeN hastee-e-ashiya mere aage", "dict":"juz = other than, aalam = world, hastee = existence, ashiya = things/items" },
+			     { "line1":"hota hai nihaaN gard meiN sehara mere hote", "line2":"ghisata hai jabeeN KHaak pe dariya mere aage", "dict":"nihaaN = hidden, gard = dust, sehara = desert, jabeeN = forehead" },
+			     { "line1":"mat pooch ke kya haal hai mera tere peeche ?", "line2":"too dekh ke kya rang tera mere aage" },
+			     { "line1":"sach kahte ho, KHudbeen-o-KHud_aaraa na kyoN hooN ?", "line2":"baiTha hai but-e-aainaa_seemaa mere aage", "dict":"KHudbeen = proud/arrogant, KHud_aaraa = self adorer, but = beloved, aainaa_seemaa = like the face of a mirror" },
+			     { "line1":"fir dekhiye andaaz-e-gul_afshaani-e-guftaar", "line2":"rakh de koee paimaanaa-o-sahba mere aage", "dict":"gul_afshaanee = to scatter flowers, guftaar = speech/discourse, sahaba = wine, esp. red wine" },
+			     { "line1":"nafrat ka gumaaN guzare hai, maiN rashk se guzaraa", "line2":"kyoN kar kahooN, lo naam na uska mere aage", "dict":"gumaaN = doubt, rashk = envy" },
+			     { "line1":"imaaN mujhe roke hai jo khiNche hai mujhe kufr", "line2":"ka'aba mere peeche hai kaleesa mere aage", "dict":"kufr = impiety, kaleesa = church/cathedral" },
+			     { "line1":"aashiq hooN, pe maashooq_farebee hai mera kaam", "line2":"majnooN ko bura kehti hai laila mere aage", "dict":"farebee = a fraud/cheat" },
+			     { "line1":"KHush hote haiN par wasl meiN yoN mar naheeN jaate", "line2":"aayee shab-e-hijaraaN ki tamanna mere aage", "dict":"hijr = separation" },
+			     { "line1":"hai mauj_zan ik qulzum-e-KHooN, kaash, yahee ho", "line2":"aata hai abhee dekhiye kya-kya mere aage", "dict":"mauj_zan = exciting, qulzum = sea, KHooN = blood" },
+			     { "line1":"go haath ko jumbish naheeN aaNhoN meiN to dam hai", "line2":"rehne do abhee saaGHar-o-meena mere aage", "dict":"jumbish = movement/vibration, saaGHar-o-meena = goblet" },
+			     { "line1":"ham_pesha-o-ham_masharb-o-ham_raaz hai mera", "line2":"'GHalib' ko bura kyoN kaho achchaa mere aage !", "dict":"ham_pesha = of the same profession, ham_masharb = of the same habits/a fellow boozer, ham_raaz = confidant" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "4",
+			   "chapterTitle": "be-'eitadaaliyoN se, subuk sab meiN ham huve",
+			   "paragraphs": [
+			     { "line1":"be-'eitadaaliyoN se, subuk sab meiN ham huve", "line2":"jitne ziyaada ho gaye, utne hee kam huve", "dict":"be-'eitadaaliyoN = intemperatness ('eitadaal = moderation), subuk = embarrased" },
+			     { "line1":"pinhaaN thaa daam-e-saKHt qareeb aashiyaaN ke", "line2":"uDne na paaye the; ki giraftaar hum huve", "dict":"pinhaaN = concealed, daam = trap" },
+			     { "line1":"hastee hamaaree apnee fana'a par daleel hai", "line2":"yaaN tak mite ki aap ham apnee qasam huve", "dict":"hastee = existence, fana'a = mortality, daleel = witness" },
+			     { "line1":"saKHtee_kashaan-e-ishq kee poochche hai kya KHabar ?", "line2":"woh lagaa rafta-rafta sar_aa_pa alam huve", "dict":"saKHtee_kashaaN = to pull tightly, rafta = slowly, sar_aa_pa = from head to feet, alam = sorrow" },
+			     { "line1":"teree wafa se kya ho talaafee, ki dahar meiN", "line2":"tere siwa bhee ham pe bahut se sitam huve", "dict":"talaafee = compensation, dahar = world, sitam = opression" },
+			     { "line1":"likhte rahe junooN kee hikaayat-e-KHooNchakaaN", "line2":"harchand usmaiN haath hamaare qalam huve", "dict":"junooN = ecstasy, hikaayat = story/narrative, KHooNchakaaN = blood drenched, qalam = cut" },
+			     { "line1":"alla re teree tundee-e-KHooN, jiske beem se", "line2":"azzaa-e-naala dil meiN mere rizke-ham huve", "dict":"tundee = heat, beem = terror, rizk = subsistence" },
+			     { "line1":"ahle hawas kee fatah hai, tark-e-nabard-e-ishq", "line2":"jo paaNv uTha gaye wahee unke 'alam huve", "dict":"tark = relinquishment, nabard = battle, 'alam = flag/banner" },
+			     { "line1":"naal-e-'adam meiN chand hamaare supurd the;", "line2":"jo waaN na kheeNch sake so woh yaaN aake dam huve", "dict":"'adam = non-existence, dam = breath" },
+			     { "line1":"choDee 'Asad' na hamne gadaaee meiN dil_lagee", "line2":"saail huve to aashiq-e-ahl-e-karam huve", "dict":"gadaaee = beggary, saail = begger, dil_lagee = amusement, ahl-e-karam = charitable person" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "5",
+			   "chapterTitle": "bus ki dushwaar hai har kaam ka aasaaN hona",
+			   "paragraphs": [
+			     { "line1":"bus ki dushwaar hai har kaam ka aasaaN hona", "line2":"aadmee ko bhee muyassar naheeN insaaN hona", "dict":"dushwaar = difficult, muyassar = possible" },
+			     { "line1":"giriya chaahe hai KHaraabee mere kaashaane ki", "line2":"dar-o-deevaar se Tapke hai bayaabaaN hona", "dict":"giriyaaN = weeping, kaashaana = house, bayaabaaN = wilderness" },
+			     { "line1":"waa-e-deewaangee-e-shauq, ke har dam mujhko", "line2":"aap jaana udhar aur aap hee hairaaN hona" },
+			     { "line1":"jalva az_bas ki taqaaza-e-nigah karta hai", "line2":"jauhar-e-aaina bhee chaahe hai mizhgaaN hona", "dict":"az = from/then/by, jauhar = skill/knowledge, mizhgaaN = eyelid" },
+			     { "line1":"ishrat-e-qatl_gah-e-'ehl-e-tamanna mat pooch", "line2":"id-e-nazzaara hai shamsheer ka uriyaaN hona", "dict":"ishrat = joy/delight, shamsheer = sword, uriyaaN = naked/bare" },
+			     { "line1":"le gaye KHaak meiN ham daaGH-e-tamanna-e-nishaat", "line2":"too ho aur aap ba_sad_rang-e-gulistaaN hona", "dict":"nishaat (or nashaat) = enthusiasm/happiness, sad_rang = hundred colours" },
+			     { "line1":"ishrat-e-paara-e-dil, zaKHm-e-tamanna_KHaana", "line2":"lazzat-e-reesh-e-jigar GHarq-e-namakdaaN hona", "dict":"ishrat = joy/delight, paara = fragment/piece, lazzat = taste, reesh = wound, GHarq = drown/sink, namakdaaN = container to keep salt" },
+			     { "line1":"kee mere qatl ke baad usne jafa se tauba", "line2":"haay us zood_pashemaaN ka pashemaaN hona", "dict":"jafa = oppression, zood = quickly, pashemaaN = ashamed/ embarrassed" },
+			     { "line1":"haif us chaar girah kapDe ki qismat 'GHalib'", "line2":"jis ki qismat meiN ho aashiq ka girebaaN hona", "dict":"haif = alas!, girah = one sixteenth of a yard, girebaaN = collar" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "6",
+			   "chapterTitle": "daayam paDa huaa tere dar par naheeN hooN maiN",
+			   "paragraphs": [
+			     { "line1":"daayam paDa huaa tere dar par naheeN hooN maiN", "line2":"KHaak 'eisee zindagee pe ke patthar naheeN hooN maiN", "dict":"daayam = always" },
+			     { "line1":"kyooN gardish-e-mudaam se ghabra na jaaye dil ?", "line2":"insaan hooN, pyaala-o-saaGHar naheeN hooN maiN", "dict":"gardish = bad time/luck, mudaam = always" },
+			     { "line1":"yaarab ! zamaana mujhko miTaata hai kis liye ?", "line2":"loh-e-jahaaN pe harf-e-muqarrar naheeN hooN maiN", "dict":"harf = alphabet, muqarrar = again" },
+			     { "line1":"had chaahiye saza meiN uqoobat ke waaste", "line2":"aaKHir gunaahagaar hooN, kaafir naheeN hooN maiN", "dict":"uqoobat = pain" },
+			     { "line1":"kis waaste 'azeez naheeN jaante mujhe ?", "line2":"laal-o-zumarrud-o-zar-o-gauhar naheeN hooN maiN", "dict":"laal = a kind of gem, zumurrud = green colored gem, zar = gold, gauhar = gem" },
+			     { "line1":"rakhte ho tum qadam meree aaNkhoN se kya dareGH", "line2":"rutbe meiN mehar-o-maah se kamtar naheeN hooN maiN", "dict":"dareGH = regret/grief, mehar = sun, maah = moon" },
+			     { "line1":"karte ho mujhko man'a-e-qadam_bos kis liye ?", "line2":"kya aasmaan ke bhee baraabar naheeN hooN maiN ?", "dict":"bosa = kiss" },
+			     { "line1":"'GHalib' wazifaa_KHwaar ho, do shaah ko duaa", "line2":"woh din gaye ki kehte the; 'naukar naheeN hooN maiN'", "dict":"wazifaa_KHawaar = pensioner" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "7",
+			   "chapterTitle": "dard minnat_kash-e-dawa na huaa",
+			   "paragraphs": [
+			     { "line1":"dard minnat_kash-e-dawa na huaa", "line2":"maiN na achchaa huaa, bura na huaa", "dict":"minnat_kash-e-dawa = obliged to medicine" },
+			     { "line1":"jama'a karate ho kyoN raqeeboN ka ?", "line2":"ik tamaasha huaa gila na huaa", "dict":"raqeeb = opponent, gila = complaint" },
+			     { "line1":"ham kahaaN qismat aazmaane jaayaiN ?", "line2":"too hee jab KHanjar aazma na huaa" },
+			     { "line1":"kitne sheereeN haiN tere lab ! ki raqeeb", "line2":"gaaliyaaN khaake be_maza na huaa", "dict":"sheereeN = sweet" },
+			     { "line1":"hai KHabar garm unke aane kee", "line2":"aaj hee ghar meiN boriya na huaa !", "dict":"boriya = mat, here it refers to groceries" },
+			     { "line1":"kya woh namrood kee KHudaaee thee", "line2":"bandagee meiN tera bhala na huaa", "dict":"namrood = an old king who used to say that he was god" },
+			     { "line1":"jaan dee, dee huee usee ki thee", "line2":"haq to ye hai ke haq adaa na huaa" },
+			     { "line1":"zaKHm gar dab gaya, lahoo na thama", "line2":"kaam gar ruk gaya rawa na huaa", "dict":"rawa = right/lawful" },
+			     { "line1":"rahzanee hai ki dil_sitaanee hai ?", "line2":"leke dil, dil_sitaaN rawa na huaa", "dict":"dil_sitaaN = lover, rawa = agree/admissible" },
+			     { "line1":"kuchch to paDhiye ki log kehte haiN", "line2":"'aaj 'GHalib' GHazalsara na huaa'" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "8",
+			   "chapterTitle": "dekhna qismat ki aap apne pe rashk aajaaye hai",
+			   "paragraphs": [
+			     { "line1":"dekhna qismat ki aap apne pe rashk aajaaye hai", "line2":"maiN use; dekhooN, bhalaa kab mujhse dekha jaaye hai", "dict":"rashk = envy" },
+			     { "line1":"haath dho dil se yahee garmee gar andeshe meiN hai", "line2":"aabgeena tundee-e-sahbaa se pighla jaaye hai", "dict":"andesha = suspicion, aabgeena = a crystal glass, tundee = heat, sahbaa = red wine" },
+			     { "line1":"GHair ko yaarab ! woh kyoNkar mana'a-e-gustaaKHee kare ?", "line2":"gar haya bhee usko aatee hai to sharma jaaye hai" },
+			     { "line1":"shauq ko ye lat ke hardam naala KheeNche jaayiye", "line2":"dil ki woh haalat ki dam lene se ghabra jaaye hai" },
+			     { "line1":"door chashm-e-bad ! teree bazm-e-tarab se waah-waah", "line2":"naGHma ho jaata hai waaN gar naala mera jaaye hai", "dict":"bad = wicked, tarab = joy, naala = lamentation" },
+			     { "line1":"GHarche hai tarz-e-taGHaaful, pardaadaar-e-raaz-e-ishq", "line2":"par ham 'eise khoye jaate haiN ki woh paa jaaye hai", "dict":"taGHaaful = negligence, pardaadar = one who puts on a veil" },
+			     { "line1":"uskee bazm_aaraaiyaaN sunkar dil-e-raNjoor yaaN", "line2":"misl-e-naqsh-e-muddaa-e-GHair baiTHa jaaye hai", "dict":"aaraaiyaaN = decorations, raNjoor = sad/distressed, misl = record, naqsh = copy/print" },
+			     { "line1":"hoke aashiq woh paree_ruKH aur naazuk ban gaya", "line2":"rang khulta jaaye hai, jitna ki uData jaaye hai", "dict":"paree_ruKH = angel faced" },
+			     { "line1":"naqsh ko uske musawwir par bhee kya-kya naaz hai", "line2":"kheeNchta hai jis qadar, utana hee khiNchta jaaye hai", "dict":"naqsh = copy/print, musawwir = painter" },
+			     { "line1":"saaya meraa mujhse misl-e-dood bhaage hai 'Asad'", "line2":"paas mujh aatish_bazaaN ke kisse Thahra jaaye hai", "dict":"misl-e-dood = like smoke" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "9",
+			   "chapterTitle": "dhota hooN jab maiN peene ko us seem_tan ke paaNv",
+			   "paragraphs": [
+			     { "line1":"dhota hooN jab maiN peene ko us seem_tan ke paaNv", "line2":"rakhata hai zid se kheeNch ke baahar lagan ke paaNv", "dict":"seem_tan = silver bodied, lagan = a basin" },
+			     { "line1":"dee saadgee se jaan paDooN kohakan ke paaNv", "line2":"haihaat ! kyoN na TooT gaye peerzan ke paaNv", "dict":"kohakan = a mountain digger, haihaat = alas !, peerzan = old woman" },
+			     { "line1":"bhaage the; ham bahut see uskee saza hai ye", "line2":"hokar aseer daabte haiN raahzan ke paaNv", "dict":"aseer = prisoner, raahzan = robber" },
+			     { "line1":"marham ki justjoo meiN ghira hooN jo door-door", "line2":"tan se siwa figaar hai is KHastaa_tan ke paaNv", "dict":"justjoo = desire, figaar = wounded" },
+			     { "line1":"allaah re zauq-e-dasht-e-nawrdee ki baad-e-marg", "line2":"hilte haiN Khud-ba-KHud mere andar qafan ke paaNv", "dict":"zauq = taste, dasht-e-nawrdee = to roam around in wilderness, marg = death" },
+			     { "line1":"hai josh-e-gul bahaar meiN yaaN tak ki har taraf", "line2":"uDate hue ulajhte haiN murGH-e-chaman ke paaNv", "dict":"murGH = bird" },
+			     { "line1":"shab ko kisee ke KHwaab meiN aaya na ho kaheeN", "line2":"dukhte haiN aaj oos but-e-naazuk_badan ke paaNv", "dict":"but = idol/beloved" },
+			     { "line1":"'GHalib' mere kalaam meiN kyoNkar maza na ho ?", "line2":"peeta hooN dhoke KHusrau-e-sheereeN_suKHan ke paaNv", "dict":"kalaam = writing/speech, sheereeN = sweet, suKHan = speech/words, KHusrau-e-sheereeN_suKHan = this is pointed at Badshah Zafar" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "10",
+			   "chapterTitle": "dil hee to hai na sang-o-KHisht dard se bhar na aaye kyoN ?",
+			   "paragraphs": [
+			     { "line1":"dil hee to hai na sang-o-KHisht dard se bhar na aaye kyoN ?", "line2":"royeNge ham hazaar baar, koee hameiN sataaye kyoN ?", "dict":"sang = stone, KHisht = brick" },
+			     { "line1":"dair naheeN, haram naheeN, dar naheeN, aastaaN naheeN", "line2":"baiTHe haiN rehguzar pe ham, GHair hameiN uTHaaye kyoN ?", "dict":"dair = temple, haram = mosque, dar = gate, aastaaN = abode, rehguzar = path/way" },
+			     { "line1":"jab woh jamaal-e-dil_faroz, soorat-e-meher-e-neem_roz", "line2":"aap hee ho nazzaara_soz, parde meiN muNh chupaaye kyoN ?", "dict":"jamaal = beauty, faroz = shining/luminous, meher = sun, neem_roz = mid day, nazzaara_soz = beautiful/worth seeing" },
+			     { "line1":"dashna-e-GHamza jaaN_sitaaN, naawak-e-naaz be_panaah", "line2":"tera hee aks-e-ruKH sahee, saamne tere aaye kyoN ?", "dict":"dashna = dagger, GHamza = amorous glance, jaaN_sitaaN = distroying life, naawak = a kind of arrow, aks = image" },
+			     { "line1":"qaid-e-hayaat-o-band-e-GHam asl meiN dono ek haiN", "line2":"maut se pehle aadmee GHam se nijaat paaye kyoN ?", "dict":"hayaat = life, band-e-Gham = conceled sorrows, nijaat = release/liberation" },
+			     { "line1":"husn aur uspe husn_zan rah gayee bulhawas ki sharm", "line2":"apne pe 'eitmaad hai, GHair ko aazmaaye kyoN ?", "dict":"husn_zan = favourable view, bulhawas = slave of passions/very greedy, 'eitmaad = reliance/dependance" },
+			     { "line1":"waaN wo GHuroor-e-iz'z-o-naaz yaaN yeh hijaab-e-paas-e-waz'a", "line2":"raah meiN ham mile kahaaN, bazm meiN wo bulaaye kyoN ?", "dict":"GHuroor = pride, iz'z-o-naaz = respect and beauty, hijaab = veil/modesty, paas = regard, waz'a = behaviour" },
+			     { "line1":"haaN wo naheeN KHuda_parast, jaao wo be_wafa sahee", "line2":"jisko ho deen-o-dil 'azeez, uskee galee meiN jaaye kyoN ?", "dict":"parast = worshipper, deen = religion/faith" },
+			     { "line1":"'GHalib'-e-KHasta ke baGHair kaun se kaam band haiN ?", "line2":"roiye zaar-zaar kya, keejiye haay-haay kyoN ?", "dict":"KHasta = sick/injured, zaar-zaar = bitterly" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "11",
+			   "chapterTitle": "dil se teree nigaah jigar tak utar gayee",
+			   "paragraphs": [
+			     { "line1":"dil se teree nigaah jigar tak utar gayee", "line2":"donoN ko ik adaa meiN razaamand kar gayee" },
+			     { "line1":"shaq ho gaya hai seena, KHushee lazzat-e-firaaq", "line2":"takleef-e-pardaadaari-e-zaKHm-e-jigar gayee", "dict":"shaq = crack/split, firaaq = separation, pardaadaaree = to hide, esp. fault" },
+			     { "line1":"woh baada-e-shabaana kee sar mastiyaaN kahaaN ?", "line2":"uThiye bas ab ki lazzat-e-KHwaab-e-sahar gayee", "dict":"baada = wine, shabaana = night, sahar = morning" },
+			     { "line1":"uDtee fire hai KHaak meree koo-e-yaar se", "line2":"baare ab 'ei hawa, hawas-e- baal-o-par gayee", "dict":"baare = at last, koo-e-yaar = lover's street" },
+			     { "line1":"dekhooN to dil_farebi-e-andaaz-e-naqsh-e-pa", "line2":"mauj-e-KHiraam-e-yaar bhee kya gul katar gayee", "dict":"dil_fareb = heart alluring, naqsh = copy/print, pa = leg, mauj = wave/enjoyment, KHiraam = speed" },
+			     { "line1":"har bulhawas ne husn_parastee shiaar kee", "line2":"ab aabru-e-sheva-e-'ehl-e-nazar gayee", "dict":"bulhawas = greedy, husn_parastee = to appreciate beauty, shiaar = habit, aabru = respect/honour, sheva = manner/habit" },
+			     { "line1":"nazzaare ne bhee kaam kiya waaN naqaab ka", "line2":"mastee se har nigaah tere ruKH par bikhar gayee" },
+			     { "line1":"farda-o-dee ka tafarqa yak baar mit gaya", "line2":"kal tum gaye ke ham pe qayaamat guzar gayee", "dict":"farda = yesterday, dee = tomorrow, tafarqa = difference" },
+			     { "line1":"maara zamaane ne 'Asadullah KHaaN' tumhe", "line2":"woh walwale kahaaN, woh jawaanee kidhar gayee ?", "dict":"walwale = enthusiasm" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "12",
+			   "chapterTitle": "dil-e-naadaaN tujhe huaa kya hai ?",
+			   "paragraphs": [
+			     { "line1":"dil-e-naadaaN tujhe huaa kya hai ?", "line2":"aaKHir is dard kee dawa kya hai" },
+			     { "line1":"ham haiN mushtaaq aur woh bezaar", "line2":"ya ilaahee ! yeh maajra kya hai ?", "dict":"mushtaaq = interested, bezaar = displeased/sick of" },
+			     { "line1":"maiN bhee muNh meiN zabaan rakhta hooN", "line2":"kaash ! poocho ki 'muddaa kya hai' ?" },
+			     { "line1":"jab ki tujh bin naheeN koee maujood", "line2":"fir ye hangaama, 'ei KHuda ! kya hai" },
+			     { "line1":"ye paree chehara log kaise haiN ?", "line2":"GHamza-o-ishwa-o-'adaa kya hai ?", "dict":"paree chehara = angel faced, GHamza = amorous glance, ishwa = coquetry" },
+			     { "line1":"shikan-e-zulf-e-ambaree kyoN hai ?", "line2":"nigah-e-chashm-e-soorma sa kya hai ?", "dict":"shikan = wrinkel/fold, ambaree = fragrance, chashm = eye" },
+			     { "line1":"sabja-o-gul kahaaN se aaye haiN ?", "line2":"abr kya cheez hai, hawa kya hai ?", "dict":"abr = clouds" },
+			     { "line1":"hamko unse wafa ki hai ummeed", "line2":"jo naheeN jaante wafa kya hai" },
+			     { "line1":"'haaN bhala kar tera bhala hoga'", "line2":"aur darvesh kee sada kya hai ?", "dict":"darvesh = beggar, sada = voice" },
+			     { "line1":"jaan tum par nisaar karta hooN", "line2":"maiN naheeN jaanata duaa kya hai" },
+			     { "line1":"maiNe maana ki kuchch naheeN 'GHalib'", "line2":"muft haath aaye to bura kya hai ?" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "13",
+			   "chapterTitle": "diyaa hai dil agar usko, bashar hai kya kahiye ?",
+			   "paragraphs": [
+			     { "line1":"diyaa hai dil agar usko, bashar hai kya kahiye ?", "line2":"huwa raqeeb to ho, naamaabar hai, kya kahiye ?", "dict":"bashar = man/human being, raqeeb = opponent, naamaabar = messenger" },
+			     { "line1":"yeh zid, ki aaj na aave aur aaye bin na rahe", "line2":"qaza se shikwa hamaiN kis qadar hai kya kahiye ?", "dict":"qaza = fate/destiny, shikwa = complaint" },
+			     { "line1":"rahe haiN yoN gah-o-be_gah ki koo-e-dost ko ab", "line2":"agar na kahiye ki dushman ka ghar hai, kya kahiye ?", "dict":"gah = time, koo-e-dost = friend's/lover's street" },
+			     { "line1":"zah-e-karishma ki yoN de rakhaa hai hamko fareb", "line2":"ki bin kahe hee unhaiN sab KHabar hai, kya kahiye ?", "dict":"zah = child, karishma = wonder/miracle, fareb = deception" },
+			     { "line1":"samajh ke karte haiN baazaar meiN woh pursish-e-haal", "line2":"ki yeh kahe ki sar-e-rehguzar hai, kya kahiye ?", "dict":"pursish = enquiry, sar-e-rehguzar = on the road" },
+			     { "line1":"tumhaiN naheeN hai sar-e-rishtaa-e-wafa ka KHayaal", "line2":"hamaare haath meiN kuchch hai, magar hai kya, kahiye ?" },
+			     { "line1":"unhaiN sawaal pe zoam-e-junooN hai, kyoN laDiye ?", "line2":"hame jawaab se qata'a-e-nazar hai, kya kahiye ?", "dict":"zoam = pride, junooN = madness/frenzy, qata'a = break/intercept, qata'a-e-nazar = to ignore" },
+			     { "line1":"hasad sazaa-e-kamaal-e-suKHan hai, kya keeje", "line2":"sitam, bahaa-e-mata'a-e-hunar hai, kya kahiye ?", "dict":"hasad = envy/malice, sitam = oppression, bahaa = value/price, mata'a = valuables" },
+			     { "line1":"kaha hai kisne ki 'GHalib' buraa naheeN lekin", "line2":"siwaay iske ki aashuftaa_sar hai kya kahiye ?", "dict":"aashuftaa_sar = mentally deranged" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "14",
+			   "chapterTitle": "fir kuchch is dil ko beqaraaree hai",
+			   "paragraphs": [
+			     { "line1":"fir kuchch is dil ko beqaraaree hai", "line2":"seena zoya-e-zaKHm-e-kaaree hai", "dict":"zoya = searcher, zaKHm-e-kaaree = deep wound" },
+			     { "line1":"fir jigar khodane laga naaKHun", "line2":"aamad-e-fasl-e-laala_qaaree hai", "dict":"aamad = arrival, fasl = season/harvest" },
+			     { "line1":"qibla-e-maqsad-e-nigaah-e-niyaaz", "line2":"fir wahee parda-e-'amaaree hai", "dict":"niyaaz = desire, 'amaaree = rider's seat with a canopy on an elephant or camel" },
+			     { "line1":"chashm-e-dallaal -e- jins-e-ruswaaee", "line2":"dil KHareedaar-e-zauq-e-KHwaaree hai", "dict":"chashm = eye, jins = things/items, zauq = taste" },
+			     { "line1":"wohee sad_rang naala farsaayee", "line2":"wohee sad_goona ashq_baaree hai", "dict":"sad = hundred, naala farsaayee = lamenter, sad_goona = hundred times, ashq_baaree = lamentation" },
+			     { "line1":"dil hawa-e-KHiraam-e-naaz se fir", "line2":"mahshristaan-e-beqaraaree hai", "dict":"KHiraam = speed, mahshar = the last day/'qayaamat ka din', mahshristaan = place of the last day" },
+			     { "line1":"jalwa fir arz-e-naaz karta hai", "line2":"roz-e-baazaar-e-jaaN_sipaaree hai", "dict":"jalwa = splendour, jaaN_sipaaree = resigning one's life into the hands of another" },
+			     { "line1":"fir usee bewafa pe marte haiN", "line2":"fir wohee zindagee hamaaree hai" },
+			     { "line1":"fir khula hai dar-e-adaalat-e-naaz", "line2":"garm baazaar-e-fauj_daaree hai", "dict":"dar = abode, fauj_daaree = military court" },
+			     { "line1":"ho raha hai jahaan meiN andher", "line2":"zulf kee fir sarishta_daaree hai", "dict":"sarishta_daaree = a regulator's position" },
+			     { "line1":"fir kiya paara-e-jigar ne sawaal", "line2":"ek fariyaad-o-aah-o-zaaree hai", "dict":"paara = fragment" },
+			     { "line1":"fir hue haiN gawaah-e-ishq talab", "line2":"ashq_baaree ka hukm_zaaree hai", "dict":"talab = search/desire/request, ashq_baaree = lamentation" },
+			     { "line1":"dil-o-mizhgaaN ka jo muqadamaa tha", "line2":"aaj fir uskee roob_qaaree hai", "dict":"mizhgaaN = eyelids, roob_qaaree = to put the mind into work" },
+			     { "line1":"be_KHudee be_sabab naheeN 'GHalib'", "line2":"kuchch to hai jiskee pardaadaaree hai", "dict":"be_KHudee = rapture, be_sabab = without any reason, pardaadaaree = to hide, esp. fault" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "15",
+			   "chapterTitle": "fir mujhe deeda-e-tar yaad aaya",
+			   "paragraphs": [
+			     { "line1":"fir mujhe deeda-e-tar yaad aaya", "line2":"dil jigar tashna-e-fariyaad aaya", "dict":"deeda-e-tar = wet eyes, tashna (or tishna ) = thirsty" },
+			     { "line1":"dam liya tha na qayaamat ne hanoz", "line2":"fir tera waqt-e-safar yaad aaya", "dict":"hanoz = yet/still" },
+			     { "line1":"saadgee haay tamanna, yaanee", "line2":"fir wo nai_rang-e-nazar yaad aaya", "dict":"nai_rang = fascinating" },
+			     { "line1":"uzr-e-waamaaNdagee 'ei hasarat-e-dil", "line2":"naala karta tha jigar yaad aaya", "dict":"uzr = excuse, waamaaNdagee = tiredness" },
+			     { "line1":"zindgee yoN bhee guzar hi jaatee", "line2":"kyoN tera raahguzar yaad aaya ?" },
+			     { "line1":"kya hee rizwaaN se laDaayee hogee", "line2":"ghar tera KHuld meiN gar yaad aaya", "dict":"rizwaaN = doorkeeper of paradise, KHuld = heaven/paradise" },
+			     { "line1":"aah woh jurat-e-fariyaad kahaaN", "line2":"dil se tang aake jigar yaad aaya", "dict":"jurat = courage/valour" },
+			     { "line1":"fir tere kooche ko jaata hai KHayaal", "line2":"dil-e-gumgashta magar yaad aaya", "dict":"koocha = a narrow street/lane, gumgashta = missing" },
+			     { "line1":"koee weeraanee-see-weeraanee hai", "line2":"dasht ko dekh ke ghar yaad aaya", "dict":"dasht = desert" },
+			     { "line1":"maiNne majnooN pe laDakpan meiN 'Asad'", "line2":"sang uTHaaya tha ki sar yaad aaya", "dict":"sang = stone" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "16",
+			   "chapterTitle": "gHair leiN mehfil meiN bose jaam ke",
+			   "paragraphs": [
+			     { "line1":"gHair leiN mehfil meiN bose jaam ke", "line2":"ham rahaiN yooN tishna_lab paiGHaam ke", "dict":"bosa = kiss, tishna = thirsty" },
+			     { "line1":"KHastagee ka tumse kya shikwa ki ye", "line2":"hathkanDe haiN charKH-e-neelee_faam ke", "dict":"KHastagee = injury/sickness, shikawa = complaint, hathkanDe = tactics, charKH = sky, neelee_faam = blue colour/ complexion" },
+			     { "line1":"KHat likhenge garche matlab kuchch na ho", "line2":"ham to aashiq haiN tumhaare naam ke" },
+			     { "line1":"raat pee zamzam pe mai aur subh_dam", "line2":"dhoye dhab'be jaam-e-'eharaam ke", "dict":"zamzam = a well in Kaba whose water is considered holy, mai = wine, subh_dam = at dawn, 'eharaam = dress for 'haj'" },
+			     { "line1":"dil ko aaNkhoN ne fasaaya kya magar", "line2":"ye bhee halqe haiN tumhaare daam ke", "dict":"halqa = ring/circle, daam = net/trap" },
+			     { "line1":"shaah ke haiN GHusl-e-sehat ko KHabar", "line2":"dekhiye kab din fireiN hammaam ke", "dict":"GHusl = bath, sehat = health, hammaam = a hot bath where a masseur gives massage and bath" },
+			     { "line1":"ishq ne 'GHalib' nikamma kar diya", "line2":"warna ham bhee aadmee the; kaam ke" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "17",
+			   "chapterTitle": "ghar jab bana liya hai tere dar par kahe baGHair",
+			   "paragraphs": [
+			     { "line1":"ghar jab bana liya hai tere dar par kahe baGHair", "line2":"jaanega ab bhee too na mera ghar kahe baGHair" },
+			     { "line1":"kehte haiN, jab rahee na mujhe taaqat-e-suKHan", "line2":"jaanooN kisee ke dil ki maiN kyoNkar kahe baGHair", "dict":"taaqat-e-suKHan = strength to speak" },
+			     { "line1":"kaam us'se aa paDa hai ki jiska jahaan meiN", "line2":"lewe na koee naam 'sitamgar' kahe baGHair", "dict":"sitamgar = oppressor" },
+			     { "line1":"jee meiN hee kuchch naheeN hai hamaare, wagarna ham", "line2":"sar jaaye ya rahe, na rahaiN par kahe baGHair" },
+			     { "line1":"choDooNga maiN na us but-e-kaafir ka poojna", "line2":"choDe na KHalq go mujhe kaafir kahe baGHair", "dict":"but = idol/lover, KHalq = world" },
+			     { "line1":"maqsad hai naaz-o-GHamza, wale guftagoo meiN kaam", "line2":"chalta naheeN hai, dashna-o-KHanjar kahe baGHair", "dict":"GHamza = amorous glance, dashna = dagger" },
+			     { "line1":"har chand ho mushaahit-e-haq ki guftagoo", "line2":"bantee naheeN hai baada-o-saaGHar kahe baGHair", "dict":"mushaahit = God, baada = wine" },
+			     { "line1":"behra hooN maiN to chaahiye doona ho iltafaat", "line2":"sunta naheeN hooN baat muqarrar kahe baGHair", "dict":"iltafaat = mercy, muqarrar = again" },
+			     { "line1":"'GHalib' na kar huzoor meiN too baar-baar 'arz", "line2":"zaahir hai tera haal sab un par kahe baGHair" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "18",
+			   "chapterTitle": "hai bas ki har ik unke ishaare meiN nishaaN aur",
+			   "paragraphs": [
+			     { "line1":"hai bas ki har ik unke ishaare meiN nishaaN aur", "line2":"karte haiN muhobbat to guzarata hai gumaaN aur", "dict":"gumaaN = doubt/suspicion" },
+			     { "line1":"yaarab ! wo na samjhe haiN na samjheNge meree baat", "line2":"de aur dil unko, jo na de mujhko zubaaN aur" },
+			     { "line1":"abroo se hai kya us nigah-e-naaz ko paiwand", "line2":"hai teer muqarrar magar uskee hai kamaaN aur", "dict":"abroo = eyebrow, paiband = patch" },
+			     { "line1":"tum shahar meiN ho to hameiN kya GHam ? jab uTHeNge", "line2":"le aayenge baazaar se jaakar dil-o-jaaN aur" },
+			     { "line1":"harchand subak_dast hue but_shikanee meiN", "line2":"ham haiN, to abhee raah meiN hai sang-e-giraaN aur", "dict":"subak_dast (or sabuk_dast both are correct) = expert, but_shikanee = iconoclast, sang = stone, giraaN = heavy" },
+			     { "line1":"hai KHoon-e-jigar josh meiN dil khol ke rota", "line2":"hote kaee jo deeda-e-KHooNnaaba_fishaaN aur", "dict":"deeda = eye, KHooNnaaba = mixture of blood and water, {KHooNnaaba = KHooN (= blood) + aab (= water)}, fishaaN = shed /spread, KHooNnaaba_fishaaN = to sheds tears of blood" },
+			     { "line1":"marta hooN is aawaaz pe harchand sar uD jaay", "line2":"jallaad ko lekin wo kahe jaayaiN ki 'haaN aur'", "dict":"jallaad = executioner" },
+			     { "line1":"logoN ko hai KHursheed-e-jahaaN taab ka dhoka", "line2":"har roz dikhaata hooN maiN ik daaGH-e-nihaaN aur", "dict":"Khursheed = sun, taab = power/courage, nihaaN = hidden" },
+			     { "line1":"leta, na agar dil tumhe deta, koee dam cheiNn", "line2":"karta, jo na marta koee din, aah-o-fuGHaaN aur", "dict":"fuGHaaN = clamour" },
+			     { "line1":"paate naheeN jab raah, to chaD jaate haiN naale", "line2":"ruktee hai meree tab'a to hotee hai ravaaN aur", "dict":"naale = lamentation, tab'a = temperament" },
+			     { "line1":"haiN aur bhee duniya meiN suKHanwar bohot achche", "line2":"kehte haiN ki 'GHalib' ka hai andaaz-e-bayaaN aur", "dict":"suKHanwar = poet" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "19",
+			   "chapterTitle": "hairaaN hooN dil ko ro'ooN ki peetooN jigar ko maiN ?",
+			   "paragraphs": [
+			     { "line1":"hairaaN hooN dil ko ro'ooN ki peetooN jigar ko maiN ?", "line2":"maqdoor hooN to saath rakhooN nauhaagar ko maiN", "dict":"maqdoor = capable, nauhaagar = mourner/lamenter" },
+			     { "line1":"choDa na rashk ne ki tere ghar ka naam looN ?", "line2":"har ek se poochta hooN ki jaaooN kidhar ko maiN ?", "dict":"rashk = jealousy" },
+			     { "line1":"jaana paDa raqeeb ke dar par hazaar baar", "line2":"'ei kaash jaanta na teree rahguzar ko maiN", "dict":"raqeeb = opponent, rahguzar = road/path" },
+			     { "line1":"hai kya jo kas ke baaNdhiye meree bala dar'e", "line2":"kya jaanta naheeN hooN tumhaaree kamar ko maiN ?" },
+			     { "line1":"lo woh bhee kahate haiN ki yeh be_nang-o-naam hai", "line2":"yeh jaanta agar to luTaata na ghar ko maiN" },
+			     { "line1":"chalta hooN thoDee door har ik tez rau ke saath", "line2":"pehchaanta naheeN hooN abhee raahabar ko maiN", "dict":"rau = currents, raahabar = guide" },
+			     { "line1":"KHwaahish ko 'ahamqoN ne parastish diya qaraar", "line2":"kya poojta hooN us but-e-bedaadgar ko maiN ?", "dict":"'ahmaq = fool/idiot, parastish = worship, but = idol/lover, bedaadgar = cruel" },
+			     { "line1":"fir be_KHudee meiN bhool gaya raah-e-koo-e-yaar", "line2":"jaata wagarna ek din apnee KHabar ko maiN", "dict":"be_KHudee = rapture, koo-e-yaar = lover's street" },
+			     { "line1":"apne pe kar raha hooN qiyaas 'ahl-e-dahar ka", "line2":"samjha hooN dil_pazeer mata'a-e-hunar ko maiN", "dict":"qiyaas = supposition, 'ahl = people, dahar = period/era, pazeer = receiving, mata'a = wealth, hunar = skill" },
+			     { "line1":"'GHalib' KHuda kare ki sawaar-e-samand-e-naaz", "line2":"dekhooN 'alee_bahaadur-e-aalee_guhar ko maiN", "dict":"sawaar = ride, samand = horse, aalee_guhar = belonging to a high caste or a rich family" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "20",
+			   "chapterTitle": "har ek baat pe kehte ho tum ke 'too kya hai' ?",
+			   "paragraphs": [
+			     { "line1":"har ek baat pe kehte ho tum ke 'too kya hai' ?", "line2":"tumheeN kaho ke yeh andaaz-e-guftgoo kya hai ?", "dict":"guftgoo = conversation" },
+			     { "line1":"na shole meiN yeh karishma na barq meiN yeh ada", "line2":"koee batao ki woh shoKH-e-tund_KHoo kya hai ?", "dict":"barq = lightning, tund = sharp/angry, KHoo = behavior" },
+			     { "line1":"yeh rashk hai ki wo hota hai ham_suKHan tumse", "line2":"wagarna KHauf-e-bad_aamozi-e-adoo kya hai ?", "dict":"rashk = jealousy, ham_suKHan = to speak together/to agree, KHauf = fear, bad = bad/wicked, aamozee = education/teaching, adoo = enemy" },
+			     { "line1":"chipak raha hai badan par lahoo se pairaahan", "line2":"hamaaree jeb ko ab haajat-e-rafoo kya hai ?", "dict":"pairaahan = shirt/robe/cloth, haajat = need/necessity, rafoo = mending/darning" },
+			     { "line1":"jalaa hai jicm jahaaN dil bhee jal gaya hoga", "line2":"kuredate ho jo ab raakh, justjoo kya hai ?", "dict":"justjoo = desire" },
+			     { "line1":"ragoN meiN dauDte firne ke ham naheeN qaayal", "line2":"jab aaNkh hee se na Tapka to fir lahoo kya hai ?" },
+			     { "line1":"woh cheez jiske liye hamko ho bahisht azeez", "line2":"siwaay baada-e-gul_faam-e-mushkaboo kya hai ?", "dict":"bahisht (or bihisht, both are correct) = heaven, baada = wine, gul_faam = delicate and fragrant like flowers, mushkaboo = like the smell of musk" },
+			     { "line1":"piyooN sharaab agar KHum bhee dekh looN do chaar", "line2":"yeh sheesha-o-qadah-o-kooza-o-suboo kya hai ?", "dict":"KHum = wine barrel, qadah = goblet, kooza/suboo = wine pitcher" },
+			     { "line1":"rahee na taaqat-e-guftaar, aur agar ho bhee", "line2":"to kis ummeed pe kahiye ke aarzoo kya hai ?", "dict":"guftaar = speech/discourse" },
+			     { "line1":"huaa hai shaah ka musaahib, fire hai itaraata", "line2":"wagarna shehar meiN 'GHalib' kee aabroo kya hai ?", "dict":"musaahib = comrade/associate" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "21",
+			   "chapterTitle": "hazaaroN KHwahishaiN 'eisee ke har KHwahish pe dam nikle",
+			   "paragraphs": [
+			     { "line1":"hazaaroN KHwahishaiN 'eisee ke har KHwahish pe dam nikle", "line2":"bohot nikle mere armaaN lekin fir bhee kam nikle" },
+			     { "line1":"Dare kyooN mera qaatil kya rahega uskee gardan par", "line2":"wo KHooN, jo chashm-e-tar se 'umr bhar yooN dam_ba_dam nikle", "dict":"KHooN = blood, chashm = eye, tar = wet, dam_ba_dam = continously" },
+			     { "line1":"nikalna KHuld se aadam ka sunte aayaiN haiN lekin", "line2":"bohot be_aabru hokar tere kooche se ham nikle", "dict":"KHuld = heaven, be_aabaru = disgrace, koocha = street" },
+			     { "line1":"bharam khul jaaye zaalim tere qaamat ki daraazee ka", "line2":"agar is turra-e-pur_pech-o-KHam ka pech-o-KHam nikle", "dict":"daraazee = length/delay, qaamat = stature, turra = an ornamental tassel worn in the turban, pech-o-KHam = curls in the hair/complexity" },
+			     { "line1":"magar likhwaaye koee usko KHat, to hamse likhawaaye", "line2":"huee subah aur ghar se kaan par rakhkar qalam nikle" },
+			     { "line1":"huee is daur meiN mansoob mujhse baada_aashaamee", "line2":"fir aaya wo zamaana, jo jahaaN se jaam-e-jam nikle", "dict":"mansoob = association, baada_aashaamee = association with drinking" },
+			     { "line1":"huee jinse tavaqqo KHastagee kee daad paane kee", "line2":"wo hamse bhee ziyaada KHasta-e-teGH-e-sitam nikle", "dict":"tavaqqo = expectation, KHastagee = weakness, daad = justice, KHasta = broken/sick/injured, teGH = sword, sitam = cruelity" },
+			     { "line1":"mohabbat meiN naheeN hai farq jeene aur marne kaa", "line2":"usee ko dekh kar jeete haiN jis kaafir pe dam nikle" },
+			     { "line1":"zara kar jor seene par ki teer-e-pursitam nikle", "line2":"jo wo nikle to dil nikle, jo dil nikle to dam nikle" },
+			     { "line1":"KHuda ke waaste parda na kaabe se uThaa zaalim", "line2":"kaheeN 'eisa na ho yaaN bhee wohee kaafir sanam nikle" },
+			     { "line1":"kahaaN maiKHaane ka darwaaza 'GHalib' aur kahaaN waaiz", "line2":"par itana jaante haiN kal wo jaata tha ke ham nikle", "dict":"waaiz = preacher/advisor" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "22",
+			   "chapterTitle": "husn-e-mah, garche ba_haNgaam-e-kamaal achcha hai",
+			   "paragraphs": [
+			     { "line1":"husn-e-mah, garche ba_haNgaam-e-kamaal achcha hai", "line2":"us'se mera mah-e-KHursheed-e-jamaal achcha hai", "dict":"mah = moon, KHursheed = sun, jamaal = beauty" },
+			     { "line1":"bosa dete naheeN aur dil pe hai har lahja nigaah", "line2":"jee meiN kehte haiN, muft aaye to maal achcha hai", "dict":"bosa = kiss" },
+			     { "line1":"aur baazaar se le aaye agar TooT gaya", "line2":"saaGHar-e-jam se mera jaam-e-sifaal achcha hai", "dict":"saaGHar-e-jam = Badshah Jamshed's cup, jaam-e-sifaal = clay cup" },
+			     { "line1":"be_talab daiN to maza usme siwa milta hai", "line2":"woh gada jisko na ho KHoo-e-sawaal achcha hai", "dict":"be_talab = without any enquiry, gada = beggar, KHoo = habit" },
+			     { "line1":"unke dekhe se jo aa jaatee hai muNh par raunaq", "line2":"woh samajhte haiN ke beemaar ka haal achcha hai" },
+			     { "line1":"dekhiye paate haiN ushshaaq butoN se kya faiz ?", "line2":"ik birahaman ne kaha hai, ke yeh saal achcha hai", "dict":"ushshaaq = lovers, faiz = profit" },
+			     { "line1":"ham_suKHan teshe ne farhaad ko sheereeN se kiya", "line2":"jis tarah ka bhee kisee meiN ho kamaal achcha hai", "dict":"ham_suKHan = together, tesha = axe" },
+			     { "line1":"qatra dariya meiN jo mil jaaye to dariya ho jaaye", "line2":"kaam achchaa hai woh, jiska ma'aal achcha hai", "dict":"ma'aal = result" },
+			     { "line1":"KHijr SultaaN ko rakhe KHaaliq-e-akbar sar_sabz", "line2":"shaah ke baaGH meiN yeh taaza nihaal achcha hai", "dict":"KHijr SultaaN = one of Badshah Zafar's son, KHaaliq = The Creator/ God, akbar = greatest, sar_sabz = fertile, nihaal = tree" },
+			     { "line1":"hamko ma'aloom hai jannat ki haqeeqat lekin", "line2":"dil ke KHush rakhne ko, 'GHalib' yeh KHayaal achcha hai" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "23",
+			   "chapterTitle": "ibn-e-mariyam huwa kare koee",
+			   "paragraphs": [
+			     { "line1":"ibn-e-mariyam huwa kare koee", "line2":"mere dukh kee dawa kare koee", "dict":"ibn = son/child, mariyam = virgin Mary" },
+			     { "line1":"shar'a-o-aaeen par madaar sahee", "line2":"'eise qaatil ka kya kare koee ?", "dict":"shar'a = the Islamic divine code of life, aaeen = law/custom/mode, madaar = orbit/circumference/a place of turning" },
+			     { "line1":"chaal, jaise kaDee kamaaN ka teer", "line2":"dil meiN 'eise ke jaa kare koee", "dict":"jaa = space" },
+			     { "line1":"baat par waaN zubaan kaT_tee hai", "line2":"woh kahaiN aur suna kare koee" },
+			     { "line1":"bak rahaa hooN junooN meiN kya kya kuchch", "line2":"kuchch na samjhe KHuda kare koee", "dict":"junooN = ecstasy" },
+			     { "line1":"na suno gar bura kahe koee", "line2":"na kaho gar bura kare koee" },
+			     { "line1":"rok lo, gar GHalat chale koee", "line2":"baKHsh do gar KHata kare koee", "dict":"baKHsh = pardon, KHata = mistake/slip" },
+			     { "line1":"kaun hai jo naheeN hai haajat_mand ?", "line2":"kiskee haajat rawa kare koee", "dict":"haajat_mand = person in need, haajat = need, rawa = fulfill" },
+			     { "line1":"kya kiyaa KHijr ne sikandar se", "line2":"ab kise rehnuma kare koee ?" },
+			     { "line1":"jab tavaqqo hee uTh gayee 'GHalib'", "line2":"kyoN kisee ka gila kare koee ?", "dict":"tavaqqo = expectations, gila = complaint" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "24",
+			   "chapterTitle": "ishq mujhko naheeN, wehshat hee sahee",
+			   "paragraphs": [
+			     { "line1":"ishq mujhko naheeN, wehshat hee sahee", "line2":"meree wehshat, teree shohrat hee sahee", "dict":"wehshat = solitude, shohrat = fame" },
+			     { "line1":"qata`a keeje na ta`alluq ham se", "line2":"kuchch naheeN hai to `adaavat hee sahee", "dict":"qata'a = break/intercept, ta'alluq = relation/connection, 'adaavat = hatred/animosity" },
+			     { "line1":"mere hone meiN hai kya ruswaaee ?", "line2":"'ei woh majlis naheeN KHalwat hee sahee", "dict":"majlis = assembly, KHalwat = isolation" },
+			     { "line1":"ham bhee dushman to naheeN haiN apne", "line2":"GHair ko tujh se mohabbat hee sahee" },
+			     { "line1":"apnee hastee hee se ho, jo kuchch ho !", "line2":"aagahee gar naheeN GHaflat hee sahee", "dict":"hastee = existence, aagahee = knowledge/information, GHaflat = negligence" },
+			     { "line1":"'umr harchand ke hai barq-e-KHiraam", "line2":"dil ke KHooN karne ki fursat hee sahee", "dict":"barq = lightning, KHiraam = manner of walking" },
+			     { "line1":"ham koee tarq-e-wafa karte haiN", "line2":"na sahee ishq, museebat hee sahee", "dict":"tarq = relinquishment" },
+			     { "line1":"kuchch to de 'ei falak-e-na_insaaf", "line2":"aah-o-fariyaad ki ruKHasat hee sahee", "dict":"falak = sky" },
+			     { "line1":"ham bhee tasleem kee KHoo Daalenge", "line2":"be_niyaazee teree `aadat hee sahee", "dict":"tasleem = greeting/saluting, KHoo = habit, be_niyaazee = independence" },
+			     { "line1":"yaar se cheDa chalee jaay, 'Asad'", "line2":"gar nahee wasl to hasrat hee sahee", "dict":"wasl = meeting, hasrat = desire" }
+			    ]
+			  }
+		]
+		},
+		{
+			"sectionTitle" : "Ghazals [J-Z]",
+			"chapters" : [
+			  {
+			   "chapterNo": "25",
+			   "chapterTitle": "jaur se baaz aaye par baaz aayaiN kya ?",
+			   "paragraphs": [
+			     { "line1":"jaur se baaz aaye par baaz aayaiN kya ?", "line2":"kehte haiN, ham tumko muNh dikhlayaiN kya ?", "dict":"jaur = opression/tyranny" },
+			     { "line1":"raat din gardish meiN haiN saat aasmaaN", "line2":"ho rahega kuchch-na-kuchch ghabraayaiN kya ?", "dict":"gardish = misfortune/wandering about" },
+			     { "line1":"laag ho to usko ham samjaiN lagaav", "line2":"jab na ho kuchch bhee, to dhoka khayaiN kya ?", "dict":"laag = love/affection" },
+			     { "line1":"ho liye kyoN naamaabar ke saath-saath ?", "line2":"yaarab ! apne KHat ko ham pahooNchaayaiN kya ?", "dict":"naamaabar = messanger" },
+			     { "line1":"mauj-e-KHooN sar se guzar hee kyoN na jaaye", "line2":"aastaan-e-yaar se uTh jaayaiN kya ?", "dict":"mauj = wave, mauj-e-KHooN = bloody waves, aastaan = abode" },
+			     { "line1":"umr bhar dekha kiye marne kee raah", "line2":"mar gaye par dekhiye dikhlaayaiN kya ?" },
+			     { "line1":"poochchte haiN woh ki 'GHalib' kaun hai ?", "line2":"koee batlao ki ham batlaayaiN kya ?" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "26",
+			   "chapterTitle": "jis bazm meiN too naaz se guftaar meiN aave",
+			   "paragraphs": [
+			     { "line1":"jis bazm meiN too naaz se guftaar meiN aave", "line2":"jaaN kaalbud-e-soorat-e-deewaar meiN aave", "dict":"naaz = blandishment/pride/grace, guftaar = speech/discourse, kaalbud = the body/form/model" },
+			     { "line1":"saaye kee tarah saath firaiN, sarv-o-sanobar", "line2":"too iss qad-e-dilkash se jo gulzaar meiN aave", "dict":"sarv-o-sanobar = pine & cypress, qad = stature/size/figure, gulzaar = bed of roses/garden" },
+			     { "line1":"tay naaz-e-giraaN_maaygi-e-ashq baja hai", "line2":"jab laKHt-e-jigar deeda-e-KHooNbaar meiN aave", "dict":"tay = decided/ended, giraaN = precious, giraaN_maaya = of great value, ashq = tears, baja = right/correct, laKHt = piece/fragment, deeda = sight, KHooNbaar = shedding blood" },
+			     { "line1":"de mujhko shikaayat kee ijaazat ki sitamgar", "line2":"kuchch tujhko maza bhee mere aazaar meiN aave", "dict":"sitamgar = oppressor, aazaar = illness/harm" },
+			     { "line1":"uss chashm-e-fusooN_gar ka agar paaye ishaara", "line2":"tootee kee tarah aaeena guftaar meiN aave", "dict":"chashm = eye, fusooN_gar = magician, tootee = bird (could be a parrot), guftaar = speech" },
+			     { "line1":"kaatoN kee zabaaN sookh gayee pyaas se, yaarab !", "line2":"ik aablaa_paa waadee-e-pur_KHaar meiN aave", "dict":"aablaa = blister, aablaa_paa = having blisters on the feet, waadee = valley, pur_KHaar = full of thorns (KHaar = thorn)" },
+			     { "line1":"mar jaaooN na kyoN rashk se jab woh tan-e-naazuk", "line2":"aaGHosh-e-KHaam-e-halqa-e-zunnaar meiN aave", "dict":"rashk = jeaously, tan-e-naazuk = having delicate body, aaGHosh = embrace/bosom, KHaam = raw/unripe/crude, halqa = circle, zunnaar = the sacred thread worn by hindus" },
+			     { "line1":"GHaarat_gar-e-naamoos na ho gar hawas-e-zar", "line2":"kyoN shaahid-e-gul baaGH se baazaar meiN aave", "dict":"GHaarat = plunder/ravage, naamoos = reputation/honour, zar = money/wealth, shaahid = sweetheart" },
+			     { "line1":"tab chaak-e-girebaaN ka maza hai, dil-e-naadaaN", "line2":"jab ik nafas uljha huaa har taar meiN aave", "dict":"chaak = torn, girebaaN = collar, nafas = breath" },
+			     { "line1":"aatish_kada hai seena mera raaz-e-nihaaN se", "line2":"de waaye ! agar maa'ariz-e-izhaar meiN aave", "dict":"raaz-e-nihaan = hidden secrets, maa'ariz = boundary" },
+			     { "line1":"gaNjeena-e-maa'anee ka talism usko samajhiye", "line2":"jo lafz ki 'GHalib' mere ash'aar meiN aave", "dict":"gaNjeena = treasure, maa'anee = meaning, talism = magic, ash'aar = couplets" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "27",
+			   "chapterTitle": "kabhee nekee bhee uske jee meiN gar aa jaaye hai mujhse",
+			   "paragraphs": [
+			     { "line1":"kabhee nekee bhee uske jee meiN gar aa jaaye hai mujhse", "line2":"jafaayeN karke apnee yaad sharma jaaye hai mujhse", "dict":"jafaayeN = opression/tyranny of a beloved" },
+			     { "line1":"KHudaaya ! jazbaa-e-dil kee magar taaseer ulTee hai", "line2":"ki jitna khiNtchataa hooN aur khiNtchtaa jaaye hai mujhse", "dict":"jazbaa-e-dil = emotions, taaseer = impression" },
+			     { "line1":"woh bad_KHoo aur meree daastan-e-ishq tulaanee", "line2":"ibaarat muKHtasar, qaasid bhee ghabra jaaye hai mujhse", "dict":"bad_KHoo = bad habits, tulaanee = long, ibaarat = diction/ admonishing, muKHtasar = concise, qaasid = messenger" },
+			     { "line1":"udhar woh bad_GHumaanee hai, idhar yeh naatavaanee hai", "line2":"na poocha jaaye hai us'se, na bola jaaye hai mujhse", "dict":"badGHumaanee = suspicion, naatavaanee = weakness" },
+			     { "line1":"sambhalne de mujhe 'ei na_ummidee kya qayaamat hai", "line2":"ki daamaan-e-KHayaal-e-yaar chooTa jaaye hai mujhse" },
+			     { "line1":"takalluf bartaraf nazzaaragee meiN bhee sahi, lekin", "line2":"woh dekha jaaye, kab ye zulm dekha jaaye hai mujhse", "dict":"taqalluf = hesitation/formality, bartaraf = suspend" },
+			     { "line1":"hue haiN paaNv hee pehle nabard-e-ishq meiN zaKHmee", "line2":"na bhaaga jaaye hai mujhse, na Thehra jaaye hai mujhse", "dict":"nabard-e-ishaq = struggle in love" },
+			     { "line1":"qayaamat hai ke howe muddaee ka ham_safar 'GHalib'", "line2":"woh kaafir, jo KHuda ko bhee na sauNpa jaaye hai mujhse" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "28",
+			   "chapterTitle": "kisee ko de ke dil koee nawaa_sanj-e-fuGHaaN kyoN ho ?",
+			   "paragraphs": [
+			     { "line1":"kisee ko de ke dil koee nawaa_sanj-e-fuGHaaN kyoN ho ?", "line2":"na ho jab dil hee seene meiN to fir muNh meiN zubaaN kyoN ho ?", "dict":"nawaa_sanj = singer, fuGHaaN = clamour" },
+			     { "line1":"woh apnee KHoo na choDenge, ham apnee waz'a kyoN badleiN ?", "line2":"subak_sar banke kya poocheiN ki ham se sar_giraaN kyoN ho ?", "dict":"KHoo = habit, waz'a = conduct/behaviour, subak_sar = light headed/ unsteady, sar_giraaN = arrogant/proud" },
+			     { "line1":"kiya GHam_KHwaar ne ruswa, lage aag is muhabbat ko", "line2":"na laaye taab jo GHam ki, woh mera raazdaaN kyoN ho ?", "dict":"GHam_Khawaar = comforter, taab = courage/patience, raazdaaN = friend" },
+			     { "line1":"wafa kaisee ? kahaaN ka ishq ? jab sar phoDna THehra", "line2":"to fir 'ei sang_dil tera hee sang-e-aastaaN kyoN ho ?", "dict":"sang_dil = hard hearted/merciless, sang-e-aastaaN = threshold" },
+			     { "line1":"qafas meiN mujh se roodaad-e-chaman kehte na Dar hamdam", "line2":"giree hai jis pe kal bijlee woh mera aashiyaaN kyoN ho ?", "dict":"qafas = cage/prison, roodaad = report/statement" },
+			     { "line1":"ye kah sakte ho 'ham dil meiN naheeN haiN' par ye batlaao", "line2":"ki jab dil meiN tumhee-tum ho to aaNkho se nihaaN kyoN ho ?", "dict":"nihaaN = hidden" },
+			     { "line1":"GHalat hai jazba-e-dil ka shikwa, dekho juRm kiska hai", "line2":"na khiNcho gar tum apne ko kashaakash darmiyaaN kyoN ho ?", "dict":"jazba = desire/feeling, shikwa = complaint, kashaakash = struggle/dilemma, darmiyaaN = betwwen" },
+			     { "line1":"ye fitna aadmee ki KHaana_weeraanee ko kya kam hai ?", "line2":"hue tum dost jiske, dushman uska aasmaaN kyoN ho ?", "dict":"fitna = quarrel, KHaanaa_weeraanee = ruinning of home" },
+			     { "line1":"yahee hai aazmaana to sataana kis ko kehte haiN ?", "line2":"`adoo ke ho liye jab tum to mera imtihaaN kyoN ho ?", "dict":"'adoo = enemy, imtihaaN = examination" },
+			     { "line1":"kaha tumne ki 'kyoN ho GHair ke milne meiN ruswaaee ?'", "line2":"baja kehte ho, sach kehte ho, fir kahiyo ki 'haaN kyoN ho ?'", "dict":"ruswaaee = disgrace, baja = right/correct" },
+			     { "line1":"nikaala chaahata hai kaam kya taa'anoN se too 'GHalib'", "line2":"tere be_mehar kehne se wo tujh par meharabaaN kyoN ho ?", "dict":"taa'an = taunter, be_mehar = unkind/repulsive" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "29",
+			   "chapterTitle": "koee din gar zindagaanee aur hai",
+			   "paragraphs": [
+			     { "line1":"koee din gar zindagaanee aur hai", "line2":"apne jee meiN hamne THaanee aur hai" },
+			     { "line1":"aatish-e-dozaKH meiN ye garmee kahaaN", "line2":"soz-e-GHam haay nihaanee aur hai", "dict":"dozaKH = hell, soz = passion/heat, nihaanee = internal/hidden" },
+			     { "line1":"baarha dekhee haiN unkee ranjishaiN", "line2":"par kuchch ab ke sar_giraanee aur hai", "dict":"sar_giraanee = pride" },
+			     { "line1":"deke KHat muNh dekhta hai naamabar", "line2":"kuchch to paiGHaam-e-zabaanee aur hai", "dict":"naamabar = messenger" },
+			     { "line1":"qaata-e-'amaar hai aksar nujoom", "line2":"woh balaa-e-aasmaanee aur hai", "dict":"qaata-e-'amaar = killers, nujoom = stars, balaa-e-aasmaanee = natural calamity" },
+			     { "line1":"ho chukeeN 'GHalib' balaayeN sab tamaam", "line2":"ek marg-e-naagahaanee aur hai", "dict":"balaayeN = calamities, marg = death, naagahaanee = sudden/ accidental" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "30",
+			   "chapterTitle": "koee ummeed bar naheeN aatee",
+			   "paragraphs": [
+			     { "line1":"koee ummeed bar naheeN aatee", "line2":"koee soorat nazar naheeN aatee" },
+			     { "line1":"maut ka ek din mu'ayyan hai", "line2":"neeNd kyoN raat bhar naheeN aatee ?", "dict":"mu'ayyan = definite" },
+			     { "line1":"aage aatee thee haal-e-dil pe haNsee", "line2":"ab kisee baat par naheeN aatee" },
+			     { "line1":"jaanta hooN sawaab-e-taa'at-o-zahad", "line2":"par tabeeyat idhar naheeN aatee", "dict":"sawaab = reward of good deeds in next life, taa'at = devotion, zahad = religious deeds or duties" },
+			     { "line1":"hai kuchch 'eisee hee baat jo chup hooN", "line2":"warna kya baat kar naheeN aatee ?" },
+			     { "line1":"kyoN na cheeKHooN ki yaad karate haiN", "line2":"meree aawaaz gar naheeN aatee" },
+			     { "line1":"daaGH-e-dil gar nazar naheeN aata", "line2":"boo bhee 'ei chaaraagar ! naheeN aatee", "dict":"chaaraagar = healer/doctor" },
+			     { "line1":"ham wahaaN haiN jahaaN se hamko bhee", "line2":"kuchch hamaaree KHabar naheeN aatee" },
+			     { "line1":"marte haiN aarzoo meiN marne ki", "line2":"maut aatee hai par naheeN aatee" },
+			     { "line1":"kaaba'a kis muNh se jaaoge 'GHalib'", "line2":"sharm tumko magar naheeN aatee" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "31",
+			   "chapterTitle": "laazim tha ki dekho mera rasta koee din aur",
+			   "paragraphs": [
+			     { "line1":"laazim tha ki dekho mera rasta koee din aur", "line2":"tanha gaye kyoN ? ab raho tanha koee din aur", "dict":"laazim = necessary, tanha = alone" },
+			     { "line1":"mit jaayega sar, gar tera patthar na ghisega", "line2":"hooN dar pe tere naasiyaa_farsa koee din aur", "dict":"dar = door, naasiyaa = forehead, farsa = to kneel down and touch the forehead on the ground as in prostrate" },
+			     { "line1":"aaye ho kal aur aaj hee kehte ho ki jaaooN", "line2":"maana ki hamesha naheeN, achchaa, koee din aur" },
+			     { "line1":"jaate huve kahte ho, qayaamat ko milenge", "line2":"kya khoob ! qayaamat ka hai goya koee din aur ?" },
+			     { "line1":"haaN 'ei falak-e-peer, javaaN tha abhee 'aarif'", "line2":"kya tera bigaData jo na marta koee din aur ?", "dict":"falak = sky/heaven, falak-e-peer = reffering to the sky" },
+			     { "line1":"tum maah-e-shab-e-char_dahum the; mere ghar ke", "line2":"phir kyoN na raha ghar ka woh naqsha koee din aur ?", "dict":"maah-e-shab-e-char_dahum = moon of the fourteenth night" },
+			     { "line1":"tum kaun se 'eise the; khare daad-o-sitad ke ?", "line2":"karta malak_ul_maut taqaaza koee din aur ?", "dict":"daad = justice, sitad = to take (Note : the word 'sitad' is not used by itself, but is used along with 'daad' as in 'daad-o-sitad', meaning 'buyling and selling'/'settlement of accounts'. I have given separate meanings of the words for the benefit of the readers.), malak = an angel, malak_ul_maut = angel of death, taqaaza = demanding/pressing settlement of a claim" },
+			     { "line1":"mujhse tumhaiN nafrat sahee, 'nayyar' se laDaayee", "line2":"bachhoN ka bhee dekha na tamaasha koee din aur ?" },
+			     { "line1":"guzree na baharhaal yah muddat KHushee-naaKHush", "line2":"karna tha, javaaN_marg ! guzaara koee din aur", "dict":"baharhaal = in any case, javaaN_marg = one who dies young" },
+			     { "line1":"naadaaN ho jo kehte ho ki kyoN jeete ho 'GHalib'", "line2":"qismat meiN hai marne ki tamanna koee din aur ?" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "32",
+			   "chapterTitle": "maze jahaan ke apnee nazar meiN KHaak naheeN",
+			   "paragraphs": [
+			     { "line1":"maze jahaan ke apnee nazar meiN KHaak naheeN", "line2":"siwaay KHoon-e-jigar, so jigar meiN KHaak naheeN" },
+			     { "line1":"magar GHubaar huve par hawa uDaa le jaaye", "line2":"wagarna taab-o-tavaaN baal-o-par meiN KHaak naheeN", "dict":"GHubaar = clouds of dust, taab-o-tavaaN = courage/strength, bal-o-par = feathers & wings" },
+			     { "line1":"yeh kis bahisht_shamaail kee aamad-aamad hai ?", "line2":"ke GHair jalva-e-gul rahguzar meiN KHaak naheeN", "dict":"bahisht = heaven, shamaail = habits, aamad = arrival, jalva-e-gul = display of flowers, rahguzar = path" },
+			     { "line1":"bhala use; na sahee, kuchch mujhee ko raham aataa", "line2":"asar mere nafas-e-be_asar meiN KHaak naheeN", "dict":"nafas = breath" },
+			     { "line1":"KHayaal-e-jalva-e-gul se KHaraab hai maikash", "line2":"sharaabKHane ke deewar-o-dar meiN KHaak naheeN" },
+			     { "line1":"huwa hooN ishq ki GHaaratgaree se sharminda", "line2":"siwaay hasrat-e-taameer ghar meiN KHaak naheeN", "dict":"GHaaratgree = destructiveness, taameer = construction" },
+			     { "line1":"hamaare sher haiN ab sirf dil_lagee ke 'Asad'", "line2":"khulaa ki faayda arz-e-hunar meiN KHaak naheeN", "dict":"arz-e-hunar = display of talents" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "33",
+			   "chapterTitle": "meherabaaN hoke bula lo mujhe chaaho jis waqt",
+			   "paragraphs": [
+			     { "line1":"meherabaaN hoke bula lo mujhe chaaho jis waqt", "line2":"maiN gaya waqt naheeN hooN ke fir aa bhee na sakooN" },
+			     { "line1":"zauf meiN taana-e-aGHayaar ka shikawa kya hai ?", "line2":"baat kuchch sar to naheeN hai ke uTha bhee na sakooN", "dict":"zauf = weakness, taana = taunt, aGHayaar = enemy, shikawa = complaint" },
+			     { "line1":"zehar milta hee naheeN mujhko sitamgar, warana", "line2":"kya qasam hai tere milne kee, ke kha bhee na sakooN", "dict":"sitamgar = oppressor" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "34",
+			   "chapterTitle": "miltee hai KHoo-e-yaar se naar iltihaab meiN",
+			   "paragraphs": [
+			     { "line1":"miltee hai KHoo-e-yaar se naar iltihaab meiN", "line2":"kaafir hooN gar na miltee ho raahat 'azaab meiN", "dict":"KHoo-e-yaar = lover's nature/behavior/habit, naar = fire, iltihaab = flame, 'azaab = sorrow" },
+			     { "line1":"kab se hooN, kya bataaooN jahaan-e-KHaraab meiN ?", "line2":"shab haaye hijr ko bhee rakhooN gar hisaab meiN", "dict":"jahaan-e-KHaraab = world of problems, shab = night, hijr = separation" },
+			     { "line1":"taa fir na intezaar meiN neeNd aaye 'umr bhar", "line2":"aane ka 'ahad kar gaye aaye jo KHwaab meiN", "dict":"taa = so that, 'ahad = promise" },
+			     { "line1":"qaasid ke aate-aate KHat ik aur likh rakhooN", "line2":"maiN jaanta hooN jo woh likhenge jawaab meiN", "dict":"qaasid = messenger" },
+			     { "line1":"mujh tak kab unkee bazm meiN aata tha daur-e-jaam", "line2":"saaqee ne kuchch mila na diya ho sharaab meiN", "dict":"bazm = meeting/'mehafil', saaqee = bar tender" },
+			     { "line1":"jo munkir-e-wafa ho fareb us pe kya chale ?", "line2":"kyooN badGHumaaN hooN dost se dushman ke baab meiN ?", "dict":"munkir-e-wafa = one who denies loyalty, fareb = illusion/fraud badGHumaaN = suspicious, baab = company" },
+			     { "line1":"maiN muztarib hooN wasl meiN KHauf-e-raqeeb se", "line2":"Daala hai tumko weham ne kis pech-o-taab meiN", "dict":"muztarib = anxious/disturbed, wasl = meeting with the lover, KHauf = fear, raqeeb = opponent, pech-o-taab = predicament" },
+			     { "line1":"mai aur haz'z-e-wasl, KHudaa_saaz baat hai", "line2":"jaaN nazr denee bhool gaya iztiraab meiN", "dict":"mai = bar, haz'z-e-wasl = joy of meeting, KHudaa_saaz = god's gift, iztiraab = anxiety" },
+			     { "line1":"hai tevaree chaDee huee andar naqaab ke", "line2":"hai ik shikan paDee huee tarf-e-naqaab meiN", "dict":"shikan = wrinkle, tarf = eyelid" },
+			     { "line1":"laakhauN lagaav, ik churaana nigaah ka", "line2":"laakhauN banaav, ik bigaaDna itaab meiN", "dict":"itaab = anger" },
+			     { "line1":"woh naala_dil meiN KHas ke baraabar jagah na paaye", "line2":"jis naale se shigaaf paDe aaftaab meiN", "dict":"naala_dil = crying heart, KHas = hay/grass, shigaaf = crack, aaftaab = sun/face" },
+			     { "line1":"woh sehar muddaa talbee meiN na kaam aaye", "line2":"jis sehar se safina ravaaN ho saraab meiN", "dict":"sehar = magic, muddaa talbee = fulfillment of a desire, safina = boat, ravaaN = move, saraab = mirage" },
+			     { "line1":"'GHalib' chutee sharaab, par ab bhee kabhee-kabhee", "line2":"peeta hooN roz-e-abr -o- shab-e-maahtaab meiN", "dict":"abr = clouds, roz-e-abr = cloudy day, maahtaab = moon" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "35",
+			   "chapterTitle": "muddat huee hai yaar ko mehmaaN kiye hue",
+			   "paragraphs": [
+			     { "line1":"muddat huee hai yaar ko mehmaaN kiye hue", "line2":"josh-e-qadah se bazm chiraaGHaaN kiye hue", "dict":"qadah = goblet" },
+			     { "line1":"karta hooN jama'a fir jigar-e-laKHt-laKHt ko", "line2":"arsa hua hai daawat-e-mizhgaaN kiye hue", "dict":"laKHt = piece, mizhgaaN = eyelid" },
+			     { "line1":"fir waz'a-e-'ehtiyaat se rukane laga hai dam", "line2":"barsoN hue haiN chaak girebaaN kiye hue", "dict":"waz'a = conduct/behaviour, 'ehtiyaat = care, chaak = torn, girebaaN = collar" },
+			     { "line1":"fir garm_naala haay sharar_baar hai nafas", "line2":"muddat huee hai sair-e-chiraaGHaaN kiye hue", "dict":"sharar_baar = raining sparks of fire, nafas = breath" },
+			     { "line1":"fir pursish-e-jaraahat-e-dil ko chala hai ishq", "line2":"saamaan-e-sad_hazaar namakdaaN kiye hue", "dict":"pursish = enquiry, jaraahat (or jiraahat) = surgery, sad = hundred, namakdaaN = container to keep salt" },
+			     { "line1":"fir bhar raha hai KHaama-e-mizhgaaN ba_KHoon-e-dil", "line2":"saaz-e-chaman_taraazee-e-daamaaN kiye hue", "dict":"KHaama = pen, mizhgaaN = eyelid, saaz = disposition, taraazee = consenting" },
+			     { "line1":"baa_ham_digar hue haiN dil-o-deeda fir raqeeb", "line2":"nazzaara-o-KHayaal ka saamaaN kiye hue", "dict":"ham_digar = mutual/in between, saamaaN = confront" },
+			     { "line1":"dil fir tawaaf-e-koo-e-malaamat ko jaai hai", "line2":"pindaar ka saman_kada weeraaN kiye hue", "dict":"tawaaf = circuit, koo = lane/street, malaamat = rebuke/blame, pindaar = pride/arrogance, saman_kada = house of jasmine flowers, here it means temple" },
+			     { "line1":"fir shauq kar raha hai KHareedaar kee talab", "line2":"arz-e-mata'a-e-'aql-o-dil-o-jaaN kiye hue", "dict":"talab = search, mata'a = valuables" },
+			     { "line1":"dauDe hai fir harek gul-o-laala par KHayaal", "line2":"sad_gul_sitaaN nigaah ka saamaaN kiye hue" },
+			     { "line1":"fir chaahta hooN naama-e-dildaar kholna", "line2":"jaaN nazr-e-dil_farebee-e-unwaaN kiye hue", "dict":"naama-e-dildaar = love letter, unwaaN = title/preface" },
+			     { "line1":"maange hai fir kisee ko lab-e-baam par hawas", "line2":"zulf-e-siyaah ruKH pe pareshaaN kiye hue", "dict":"lab-e-baam = the corner of a terrace, siyaah = black/dark" },
+			     { "line1":"chaahe fir kisee ko muqaabil meiN aarzoo", "line2":"soorme se tez dashna-e-mizhgaaN kiye hue", "dict":"muqaabil = confronting, dashna = dagger, mizhgaaN = eyelids" },
+			     { "line1":"ik nau_bahaar-e-naaz ko taaqe hai fir nigaah", "line2":"chehra furoGH-e-mai se gulistaaN kiye hue", "dict":"nau_bahaar-e-naaz = lover, furoGH = light/bright" },
+			     { "line1":"fir jee meiN hai ki dar pe kisee ke paDe rahaiN", "line2":"sar zar-e-baar-e-minnat-e-darbaaN kiye hue", "dict":"zar = money/wealth, baar = burden/load, minnat = supplicate" },
+			     { "line1":"jee DhoonDta hai fir wohee fursat ke raat din", "line2":"baiTHe rahaiN tasavvur-e-jaanaaN kiye hue", "dict":"tasavvur = imagination" },
+			     { "line1":"'GHalib' hameiN na cheD ki fir josh-e-ashq se", "line2":"baiTHe haiN ham tahayya-e-toofaaN kiay hue", "dict":"tahayya = determined" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "36",
+			   "chapterTitle": "na tha kuchch to KHuda tha, kuchch na hota to KHuda hota",
+			   "paragraphs": [
+			     { "line1":"na tha kuchch to KHuda tha, kuchch na hota to KHuda hota", "line2":"duboya mujhko hone ne, na hota maiN to kya hota ?" },
+			     { "line1":"huaa jab GHam se yooN behis to GHam kya sar ke kaTne ka", "line2":"na hota gar juda tan se to zaanooN par dhaRa hota", "dict":"behis = shocked/stunned, zaanooN = knee" },
+			     { "line1":"huee muddat ke 'GHalib' mar gaya par yaad aata hai", "line2":"wo har ek baat pe kehana, ke yooN hota to kya hota ?", "dict":"muddat = duration/period" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "37",
+			   "chapterTitle": "naqsh fariyaadee hai kiskee shoKHee-e-tehreer ka",
+			   "paragraphs": [
+			     { "line1":"naqsh fariyaadee hai kiskee shoKHee-e-tehreer ka", "line2":"kaaGHazee hai pairhan har paikar-e-tasweer ka", "dict":"naqsh = copy/print, fariyaad = complaint, tehreer = hand writing, kaaGHazee = delicate, pairhan = dress, paikar = appearance" },
+			     { "line1":"kaave-kaave saKHt_jaanee haay tanhaaee na pooch", "line2":"subah karna shaam ka laana hai joo-e-sheer ka", "dict":"kaave-kaave = hard work, saKHt_jaanee = tough life, joo = canal/stream, sheer = milk, joo-e-sheer = to create a canal of milk, here means to perform an impossible task" },
+			     { "line1":"jazba-e-be_iKHtiyaar-e-shauq dekha chaahiye", "line2":"seena-e-shamsheer se baahar hai dam shamsheer ka", "dict":"iKHtiyaar = authority/power, shamsheer = sword" },
+			     { "line1":"aagahee daam-e-shuneedan jis qadar chaahe bichaaye", "line2":"mudda'a 'anqa hai apne aalam-e-taqreer ka", "dict":"aagahee = knowledge/intution, daam = net/trap, shuneed = conversation, 'anqa = rare, aalam = world/universe, taqreer = speech/discourse" },
+			     { "line1":"bus ke hooN 'GHalib' aseeree meiN bhee aatish zer-e-pa", "line2":"moo-e-aatish_deeda hai halqa meree zanjeer ka", "dict":"aseeree = imprisonment/captivity, zer-e-pa = under the feet, moo = hair, aatish_deeda = roasted on fire, halqa = ring/circle" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "38",
+			   "chapterTitle": "nuktaacheeN hai GHam-e-dil usko sunaaye na bane",
+			   "paragraphs": [
+			     { "line1":"nuktaacheeN hai GHam-e-dil usko sunaaye na bane", "line2":"kya bane baat jahaaN baat banaaye na bane", "dict":"nuktaacheeN = critic/sweetheart" },
+			     { "line1":"maiN bulaata to hooN usko magar 'ei jazba-e-dil", "line2":"uspe ban jaaye kuchch 'eisee ki bin aaye na bane" },
+			     { "line1":"khel samjha hai kaheeN choD na de, bhool na jaay", "line2":"kaash ! yooN bhee ho ki bin mere sataaye na bane" },
+			     { "line1":"GHair firta hai liye yooN tere KHat ko ki agar", "line2":"koee pooche ki yeh kya hai ? to chipaaye na bane" },
+			     { "line1":"is nazaakat ka bura ho, woh bhale haiN to kya", "line2":"haaNth aaye to unhaiN haaNth lagaaye na bane", "dict":"nazaakat = elegance" },
+			     { "line1":"keh sake kaun ki yeh jalwaa_garee kiskee hai", "line2":"parda choDa hai woh usne ki uTHaaye na bane", "dict":"jalwaa_garee = manifestation" },
+			     { "line1":"maut kee raah na dekhooN ki bin aaye na rahe", "line2":"tumko chaahooN ki na aao, to bulaaye na bane" },
+			     { "line1":"bojh woh sar pe gira hai ki uTHaaye na uTHe", "line2":"kaam woh aan paDa hai, ki banaaye na bane" },
+			     { "line1":"ishq par zor naheeN, hai ye woh aatish 'GHalib'", "line2":"ki lagaaye na lage aur bujhaaye na bane", "dict":"aatish = fire" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "39",
+			   "chapterTitle": "rone se aur ishq meiN be_baak ho gaye",
+			   "paragraphs": [
+			     { "line1":"rone se aur ishq meiN be_baak ho gaye", "line2":"dhoye gaye ham 'eise ki bas paak ho gaye", "dict":"be_baak = outspoken/bold, paak = pure/clean/holy" },
+			     { "line1":"sarf-e-baha-e-mai hue aalaat-e-maikashee", "line2":"the; ye hee do hisaab, so yoN paak ho gaye", "dict":"sarf = expenditure, baha = value/price, mai = bar, aalaat = instruments/apparatus, maikashee = boozing" },
+			     { "line1":"ruswa-e-dahar go hue aawaargee se tum", "line2":"baare tabeeyatoN ke to chaalaak ho gaye", "dict":"dahar = world, baare = atlast" },
+			     { "line1":"kehta hai kaun naala-e-bulbul ko be_asar", "line2":"parde meiN gul ke laakh jigar chaak ho gaye", "dict":"chaak = slit/torn" },
+			     { "line1":"pooche hai kya wujood-o-adam 'ehl-e-shauq ka", "line2":"aap apnee aag se KHas-o-KHaashaak ho gaye", "dict":"wujood = existence, adam = non existence, KHas-o-Khaashaak = destroyed" },
+			     { "line1":"karne gaye the; usse taGHaaful ka ham gila", "line2":"kee ek hee nigaah ki bas KHaak ho gaye", "dict":"taGHaaful = negligence, gila = complaint, KHaak = dust/ashes" },
+			     { "line1":"is DHang se uTHaayee kal usne 'Asad' ki laash", "line2":"dushman bhee jisko dekhke GHamnaak ho gaye", "dict":"GHamnaak = grief stricken" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "40",
+			   "chapterTitle": "shauq har rang raqeeb-e-sar-o-saamaaN niklaa",
+			   "paragraphs": [
+			     { "line1":"shauq har rang raqeeb-e-sar-o-saamaaN niklaa", "line2":"qais tasveer ke parde meiN bhee uriyaaN niklaa", "dict":"raqeeb = opponent, sar-o-saamaaN = with belongings, qais = 'majanooN', uriyaaN = nude" },
+			     { "line1":"zaKHm ne daad na dee, tangee-e-dil ki yaarab !", "line2":"teer bhee seena-e-bismil se par_afshaaN niklaa", "dict":"daad = justice, seena-e-bismil = wounded heart, par = wings, afshaaN = rattle" },
+			     { "line1":"boo-e-gul, naala-e-dil, dood-e-charaaGH-e-mehfil", "line2":"jo teree bazm se nikla, so parishaaN niklaa", "dict":"boo = fragrance, gul = flower, naalaa = cry, dood = smoke, esp. from a lamp that's been extinguished" },
+			     { "line1":"thee nau_aamoz_fana'a himmat-e-dushwaar_pasand", "line2":"saKHt mushkil hai ki yah kaam bhee aasaaN nikla", "dict":"nau_aamoz = beginner, dushwaar = difficult" },
+			     { "line1":"dil meiN fir giryaaN ne ik shor uThaaya 'GHalib'", "line2":"aah jo qatra na nikla tha, so toofaaN nikla", "dict":"giryaaN = weeping, qatra = drop" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "41",
+			   "chapterTitle": "taskin ko ham na roen jo zauq-e-nazr mile,",
+			   "paragraphs": [
+			     { "line1":"taskin ko ham na roen jo zauq-e-nazr mile,", "line2":"Huraan-e-khuld mein teri surat magar mile." },
+			     { "line1":"Apni gali mein mujhko na kar dafan baad-e-qatal,", "line2":"Mere pate se khalaq ko kyon tera ghar mile?" },
+			     { "line1":"Saqi gari ki sharm karo aaj warna ham,", "line2":"Har shab piya hi karte hain, mai jis qadar mile." },
+			     { "line1":"Tujh se to kuchh kalaam nahin lekin ai nadim!", "line2":"Mera salaam kaheyo agar naama bar mile." },
+			     { "line1":"Tum ko bhi ham dikhaenge Majnun ne kya kiya,", "line2":"Fursat kashaakash-e-gham-e-pinhaan se gar mile." },
+			     { "line1":"Laazim nahin ke khizar ki ham pairwi karen,", "line2":"Maana ke ek bazurg hamen ham safar mile." },
+			     { "line1":"Ai saaknaan-e-kucha-e-dildaar dekhna,", "line2":"Tum ko kahin jo Ghalib-e-aashufta sar mile." }
+			    ]
+			  },
+			  {
+			   "chapterNo": "42",
+			   "chapterTitle": "uss bazm meiN mujhe naheeN bantee haya kiye",
+			   "paragraphs": [
+			     { "line1":"uss bazm meiN mujhe naheeN bantee haya kiye", "line2":"baiThaa raha agarche ishaare huwa kiye" },
+			     { "line1":"dil hee to hai, siyaasat-e-darbaaN se Dar gaya", "line2":"maiN, aur jaaooN dar se tere bin sada kiye ?", "dict":"siyaasat = politics, darbaaN = doorkeeper/sentry, dar = door, sada = sound, here it means conversation" },
+			     { "line1":"rakhta firooN hooN KHirqa-o-sajjaada rahn meiN", "line2":"muddat huee hai daavat-e-aab-o-hawa kiye", "dict":"KHirqa = a patched garment, sajjaada = a prayer carpet, rahn = mortgage, aab-o-hawa = climate" },
+			     { "line1":"be_sarfa hee guzartee hai, ho garche umr-e-KHijr", "line2":"hazarat bhee kal kahenge ki ham kya kiya kiye ?", "dict":"be_sarfa = simple life, umr-e-KHijr = everlasting life" },
+			     { "line1":"maqdoor ho to KHaak se poochchooN, ke 'ei laeem", "line2":"toone woh ganj haay giraaN_maaya kya kiye ?", "dict":"maqdoor = capable, KHaak = dust/earth, laeem = miserly, ganj = treasure/wealth, giraaN_maaya = valuble/precious" },
+			     { "line1":"kis roz tohamataiN na taraasha kiye 'adoo", "line2":"kis din hamaare sar pe na aare chala kiye", "dict":"tohamataiN = accusitions, 'adoo = enemy" },
+			     { "line1":"sohbat meiN GHair kee na paDee ho kaheeN yeh KHoo", "line2":"dene laga hai bose baGHair iltijaa kiye", "dict":"sohbat = company, KHoo = habit, bose = kisses, iltijaa = request" },
+			     { "line1":"zid kee hai aur baat magar KHoo buree naheeN", "line2":"bhoole se usne saikDoN waade-wafa kiye", "dict":"KHoo = habit" },
+			     { "line1":"'GHalib' tumheeN kaho ki milega jawaab kya ?", "line2":"maana ki tum kaha kiye, aur woh suna kiye" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "43",
+			   "chapterTitle": "woh aake KHwaab meiN taskeen-e-iztiraab to de",
+			   "paragraphs": [
+			     { "line1":"woh aake KHwaab meiN taskeen-e-iztiraab to de", "line2":"wale mujhe tapish-e-dil, mazaal-e-KHwaab to de", "dict":"taskeen = satisfaction, iztiraab = anxiety, tapish = burn/passion, mazaal = strength" },
+			     { "line1":"kare hai qatl lagaawat meiN tera ro dena", "line2":"teree tarah koee teGH-e-nigah ko aab to de", "dict":"lagaawat = affection, tegh = sword, aab = cool" },
+			     { "line1":"dikhaake jumbish-e-lab hee tamaam kar hamko", "line2":"na de jo bosa, to muNh se kaheeN jawaab to de", "dict":"jumbish = motion/vibration, bosa = kiss" },
+			     { "line1":"pila de oak se saaqee jo hamse nafrat hai", "line2":"pyaala gar naheeN deta na de, sharaab to de", "dict":"oak = palm of the hand contracted so as to hold water" },
+			     { "line1":"'Asad' KHushee se mere haath paaNv phool gaye", "line2":"kaha jo usne zara mere paaNv daab to de" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "44",
+			   "chapterTitle": "woh firaaq aur woh wisaal kahaaN ?",
+			   "paragraphs": [
+			     { "line1":"woh firaaq aur woh wisaal kahaaN ?", "line2":"woh shab-o-roz-o-maah-o-saal kahaaN ?", "dict":"firaaq = separation, wisaal = meeting, shab = night, roz = day, maah = month, saal = year" },
+			     { "line1":"fursat-e-kaarobaar-e-shauq kise ?", "line2":"zauq-e-nazzaraa-e-jamaal kahaaN ?", "dict":"zauq = delight/joy, jamaal = beauty" },
+			     { "line1":"dil to dil wo dimaaGH bhee na rahaa", "line2":"shor-e-sauda-e-KHatt-o-KHaal kahaaN ?" },
+			     { "line1":"thee woh ik shaKHs ke tasavvur se", "line2":"ab woh raanaai-e-KHayaal kahaaN ?", "dict":"tasavvur = imagination, raanaai-e-KHayaal = tender thoughts" },
+			     { "line1":"'eisa aasaaN naheeN lahoo rona", "line2":"dil meiN taaqat jigar meiN haal kahaaN ?", "dict":"haal = spiritual ecstasy" },
+			     { "line1":"hamse chooTa qamaar_KHaana-e-ishq", "line2":"waaN jo jawaiN, girah meiN maal kahaaN ?", "dict":"qamaar_khaana = casino, girah = knot/joint" },
+			     { "line1":"fikr-e-duniyaaN meiN sar khapaata hooN", "line2":"maiN kahaaN aur ye wabaal kahaaN ?", "dict":"wabaal = calamity" },
+			     { "line1":"muzmahil ho gaye quwa'a 'GHalib'", "line2":"wo anaasir meiN 'eitdaal kahaaN ?", "dict":"muzmahil = exhausted/idle, quwa'a = limbs, anaasir = elements, 'eitdaal = moderation" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "45",
+			   "chapterTitle": "ye jo ham hijr meiN deewaar-o-dar ko dekhte haiN",
+			   "paragraphs": [
+			     { "line1":"ye jo ham hijr meiN deewaar-o-dar ko dekhte haiN", "line2":"kabhee saba ko kabhee naamaabar ko dekhte haiN", "dict":"hijr = separation, dar = door, saba = wind, naamaabar = messanger" },
+			     { "line1":"woh aaye ghar meiN hamaare KHuda ki kudrat hai", "line2":"kabhee ham unko, kabhee apane ghar ko dekhte haiN" },
+			     { "line1":"nazar lage na kaheeN uske dast-o-baazoo ko", "line2":"ye log kyoN mere zaKHm-e-jigar ko dekhtaiN haiN ?", "dict":"dast-o-baazoo = hands & shoulders" },
+			     { "line1":"tere jawaahir-e-tarf-e-kulah ko kya dekhaiN ?", "line2":"ham auj-e-taal'a-e-laal-o-guhar ko dekhte haiN", "dict":"jawaahir = jewels, tarf = golden belt, kulah = crown, auj = height/position, taal'a = luck, laal-o-guhar = diamonds & pearls" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "46",
+			   "chapterTitle": "ye na thee hamaaree qismat ke wisaal-e-yaar hota",
+			   "paragraphs": [
+			     { "line1":"ye na thee hamaaree qismat ke wisaal-e-yaar hota", "line2":"agar aur jeete rehte yahee intezaar hota", "dict":"wisaal-e-yaar = meeting with lover" },
+			     { "line1":"tere waade par jiye ham to ye jaan jhooT jaanaa", "line2":"ke KHushee se mar na jaate agar 'eitabaar hota", "dict":"'eitabaar = trust/confidence" },
+			     { "line1":"teree naazukee se jaana ki bandha tha 'ehed_booda", "line2":"kabhee too na toD sakta agar oostuwaar hota", "dict":"'ehed = oath, oostuwaar = firm/determined" },
+			     { "line1":"koee mere dil se pooche tere teer-e-neemkash ko", "line2":"ye KHalish kahaaN se hotee jo jigar ke paar hota", "dict":"teer-e-neemkash = half drawn arrow, KHalish = pain" },
+			     { "line1":"ye kahaaN ki dostee hai ke bane haiN dost naaseh", "line2":"koee chaarasaaz hota, koee GHamgusaar hota", "dict":"naaseh = councellor, chaarasaaz = healer, GHamgusaar = sympathizer" },
+			     { "line1":"rag-e-sang se Tapakta wo lahoo ki fir na thamta", "line2":"jise GHam samajh rahe ho, ye agar sharaar hota", "dict":"rag = nerve, sang = stone, sharaar = flash/gleam" },
+			     { "line1":"GHam agarche jaaN_gulis hai, pe kahaaN bachaiN ke dil hai", "line2":"GHam-e-ishq gar na hota, GHam-e-rozgaar hota", "dict":"jaaN_gulis = life threatning" },
+			     { "line1":"kahooN kis se maiN ke kya hai, shab-e-GHam buree bala hai", "line2":"mujhe kya bura tha marna ? agar ek baar hota" },
+			     { "line1":"hue mar ke ham jo ruswa, hue kyoN na GHarq-e-dariya", "line2":"na kabhee janaaza uThata, na kaheeN mazaar hota", "dict":"GHarq = drown/sink" },
+			     { "line1":"use; kauN dekh sakta ki yagaana hai wo yaktaa", "line2":"jo dooee ki boo bhee hotee to kaheeN do chaar hota", "dict":"yagaana = kinsman, yaktaa = matchless/incomparable, dooee = duality" },
+			     { "line1":"ye masaail-e-tasawwuf, ye tera bayaaN 'GHalib' !", "line2":"tujhe ham walee samajhate, jo na baada_KHwaar hota", "dict":"masaail = topics, tasawwuf = mysticism, walee = prince/friend, baada_KHwaar = boozer" }
+			    ]
+			  },
+			  {
+			   "chapterNo": "47",
+			   "chapterTitle": "zulmat_kade meiN mere shab-e-GHam ka josh hai",
+			   "paragraphs": [
+			     { "line1":"zulmat_kade meiN mere shab-e-GHam ka josh hai", "line2":"ik shamma'a hai daleel-e-sahar, so KHamosh hai", "dict":"zulmat = darkness, daleele = proof, sahar = morning" },
+			     { "line1":"nai muzda-e-wisaal na nazzaara-e-jamaal", "line2":"muddat huee ki aashtee-e-chashm-o-gosh hai", "dict":"muzda = good news, wisaal = meeting, nazzaara-e-jamaal = seeing a beautiful face, aashtee = harmony/friendship/peace, chashm = eye, gosh = ear" },
+			     { "line1":"mai ne kiya hai, husn-e-KHud_aara ko be_hijaab", "line2":"'ai shauq, yaaN ijaazat-e-tasleem-e-hosh hai", "dict":"mai = bar, KHud_aara = self adorer, hijaab = veil, tasleem = greeting" },
+			     { "line1":"gauhar ko ikd-e-gardan-e-KHubaaN meiN dekhna", "line2":"kya auj par sitaara-e-gauhar_farosh hai", "dict":"gauhar = pearl/gem, ikd-e-gardan = necklace, KHubaaN = a beautiful person/sweetheart, auj = highest point/summit, farosh = merchant" },
+			     { "line1":"deedaar, waada, hausla, saaqee, nigaah-e-mast", "line2":"bazm-e-KHayaal maikada-e-be_KHarosh hai", "dict":"deedaar = appearance, be_KHarosh = quite/dead" },
+			     { "line1":"'ei taaza waaridan-e-bisaat-e-hawa-e-dil", "line2":"zinhaar gar tumhaiN hawas-e-na-o-nosh hai", "dict":"waaridan = arrivals, bisaat = chess, hawa = desire/greed, zinhaar = be warned !, hawas = lust/greed, na-o-nosh = feasting/ drinking" },
+			     { "line1":"dekho mujhe jo deeda-e-ibrat_nigaah ho", "line2":"meree suno jo gosh-e-naseehat_niyosh hai", "dict":"deedaa= sight, ibrat = admonition, gosh = ear, naseehat = advice, niyosh = listener" },
+			     { "line1":"saaqee ba_jalwa dushman-e-imaan-o-aagahee", "line2":"mutrib ba_naGHma rahzan-e-tamkeen-o-hosh hai", "dict":"aagahee = wisdom, mutrib = singer, rahazan = robber, tamkeen = authority/power" },
+			     { "line1":"ya shab ko dekhte the; ki har gosha-e-bisaat", "line2":"daamaan-e-baaGHbaan-o-kaf-e-gul_farosh hai", "dict":"gosha = corner, baaGHbaan = gradener, kaf = sleeve, gul_farosh = florist" },
+			     { "line1":"lutf-e-KHiraam-e-saaqee-o-zauq-e-sada-e-chang", "line2":"yeh jannat-e-nigaah woh firdaus-e-gosh hai", "dict":"KHiraam = speed, zauq = taste, sada = sound, chang = lute, firdaus = paradise, gosh = ear" },
+			     { "line1":"ya subh dam jo dekhiye aakar to bazm meiN", "line2":"nai woh suroor-o-soz na josh-o-KHarosh hai", "dict":"suroor = pleasure, soz = passion/heat" },
+			     { "line1":"daaGH-e-firaaq-e-sohabat-e-shab kee jalee hooee", "line2":"ik shamma`a reh gaee hai so wo bhee KHamosh hai", "dict":"firaaq = separation, sohabat = company" },
+			     { "line1":"aate haiN GHaib se ye mazaameeN KHayaal meiN", "line2":"'GHalib', sareer-e-KHaama nawa-e-sarosh hai", "dict":"GHaib = hidden/mysterious, mazaameeN = topics, sareer = scratching sound made by a pen, KHaama = pen, nawa = sound, sarosh = angel" }
+			    ]
+			  }
+		  ]
+	  }
+   ]
+}

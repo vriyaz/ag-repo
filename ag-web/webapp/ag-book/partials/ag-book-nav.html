@@ -1,0 +1,32 @@
+	<!-- Navigation / Fixed navbar -->
+	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container">
+			
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html"><span class="text text-danger">Ag</span></a>				
+				<a class="navbar-brand" href="#"><span class="text text-info">{{book.title | agTitleCase}}</span></a>				
+			</div>
+			
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li class="dropdown" ng-repeat="section in book.sections">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{section.sectionTitle | agTitleCase}} <span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li ng-repeat="chapter in section.chapters">
+								<a ng-click="getChapter(chapter.chapterTitle)">{{ chapter.chapterTitle | agTitleCase}}</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="nav navbar-nav pull-right">
+					<li><a href="index.html"><span class="text text-danger">Ag</span></a></li>
+				</ul>
+			</div>
+			
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+
