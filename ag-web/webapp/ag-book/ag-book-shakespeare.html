@@ -58,14 +58,24 @@
 			<h3>{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
 		</div>
 		
-		<div ng-show="currentChapter" class="col-lg-12">
-			<div class="row col-lg-12" ng-repeat="line in currentChapter.paragraphs | orderBy:line_number">
-				<div class="col-lg-3" ng-if="line.speaker == currentChapter.paragraphs[$index-1].speaker">&nbsp;</span>&nbsp;</div>
-				<div class="col-lg-3" ng-if="line.speaker != currentChapter.paragraphs[$index-1].speaker" align="right">{{line.speaker | agTitleCase}}</span>&nbsp;</div>
-				<div class="col-lg-9">{{line.text_entry}}</div>
-				<div class="col-lg-12" ng-hide="line.text_entry">{{line}}</div>
+		<!--  TODO elegantly display intro -->
+		
+		<div class="row col-sm-12" ng-repeat="line in currentChapter.paragraphs | orderBy:line_number">
+			<div class="col-sm-2">
+				<div ng-if="line.line_number != ''">
+					<span ng-if="line.speaker == currentChapter.paragraphs[$index-1].speaker">&nbsp;</span>
+					<span ng-if="line.speaker != currentChapter.paragraphs[$index-1].speaker" class="text text-danger pull-right">
+						<b>{{line.speaker | agTitleCase}}</b>
+					</span>
+				</div>
 			</div>
+			<div class="col-sm-10">
+				<span ng-if="line.line_number == ''" class="text text-danger"><b>{{line.text_entry}}</b></span>
+				<span ng-if="line.line_number != ''">{{line.text_entry}}</span>
+			</div>				
+			<div class="col-sm-12" ng-hide="line.text_entry">{{line}} &nbsp;</div>				
 		</div>
+	
 	</div>
 </body>
 </html>
