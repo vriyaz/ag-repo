@@ -65,7 +65,7 @@ describe('AgBook Controller / Jasmine', function () {
     it ('does not find chapter-3.1', function() {
     	$scope.load(testBook);
     	$scope.getChapter("chapter-3.1");
-    	expect($scope.currentChapter.chapterTitle).toBe('');
+    	expect($scope.currentChapter).not.toBeDefined();
     });
 });
 

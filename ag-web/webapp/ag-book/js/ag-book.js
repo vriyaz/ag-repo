@@ -19,21 +19,10 @@
         	$scope.book = data;
         };
         
-        $scope.getChapter = function(title) {
-        	console.log("title:" + title);
-        	angular.forEach($scope.book.sections, function(section) {
-//        		$scope.currentChapter = _.find(s.chapters, function(c) {
-//        			if (c.chapterTitle != undefined && c.chapterTitle.toLowerCase() == title.toLowerCase()) {
-//        				return c;
-//        			}
-//        		});
-        		angular.forEach(section.chapters, function(chapter) {
-        			if (title.toLowerCase() === chapter.chapterTitle.toLowerCase()) {
-	        			$scope.currentChapter = chapter;
-	        			$scope.currentChapter.chapterTitle = title;
-        			}	
-        		});
-        	});		
+        $scope.getChapter = function(title) {        	
+        	console.log("fetching chapter:" + title);
+        	var chapters = _.flatten(_.map($scope.book.sections, function(section) {return section.chapters;}));        	
+        	$scope.currentChapter = _.findWhere(chapters, { "chapterTitle" : title });
         };        
     }]);
     
