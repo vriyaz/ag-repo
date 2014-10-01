@@ -12,7 +12,7 @@
         $scope.load = function(data) {
         	$scope.imageList = data;
         	console.log(data);
-        }
+        };
         
     }]);
     
