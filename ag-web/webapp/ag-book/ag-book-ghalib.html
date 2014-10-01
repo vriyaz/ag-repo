@@ -7,72 +7,73 @@
 	
 	<!-- Bootstrap -->
 	<link href="/ag-cdn/js/bootstrap-3.2.0-dist/css/bootstrap.min.css" rel="stylesheet">
-	<link href="/ag-cdn/css/bootstrap-fixed-navbar.css" rel="stylesheet">
+	<link href="/ag-cdn/css/simple-sidebar.css" rel="stylesheet">
 	
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="/ag-cdn/js/jquery.min.js"></script>
 	<script src="/ag-cdn/js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>
+	<script src="/ag-cdn/js/underscore.js"></script>
 	
-	<script src="js/ag-app-book.js"></script>
+	<script src="js/ag-book.js"></script>
+
 	<title>Ag:Ghalib's Shayari</title>
+	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">	
 </head>
 
 <body ng-app="AgBookApp" ng-controller="AgBookController" ng-init="init('ghalib', 'prose')">
-	<!-- Navigation / Fixed navbar -->
-	<!-- Navigation / Fixed navbar -->
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-		<div class="container">
-			
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="../index.html"><span class="text text-danger">Ag</span></a>				
-				<a class="navbar-brand" href="#"><span class="text text-info">{{book.title | agTitleCase}}</span></a>				
-			</div>
-			
-			<div class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li class="dropdown" ng-repeat="section in book.sections">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{section.sectionTitle | agTitleCase}} <span class="caret"></span></a>
-						<ul class="dropdown-menu" role="menu">
-							<li ng-repeat="chapter in section.chapters">
-								<a ng-click="getChapter(chapter.chapterTitle)">{{ chapter.chapterTitle | agTitleCase}}</a>
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<ul class="nav navbar-nav pull-right">
+
+	<div id="wrapper">
+		<div id="sidebar-wrapper">
+			<ul class="sidebar-nav">
+				<div>
 					<li><a href="../index.html"><span class="text text-danger">Ag</span></a></li>
-				</ul>
-			</div>
-			
-			<!--/.nav-collapse -->
-		</div>
-	</div>
-
-
-	<div class="container theme-showcase" role="main">
-		<div ng-show="currentChapter.chapterTitle">
-			<h3>{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
-		</div>
-		
-		<div ng-show="currentChapter">
-			<div ng-repeat="paragraph in currentChapter.paragraphs">
-				<div ng-show="paragraph.list">
-					<div ng-repeat="list in paragraph.list">
-						<li>{{list}}</li>
-					</div>
-					<br>
+					<li><a href="#"><span class="text text-info">{{book.title | agTitleCase}}</span></a></li>
 				</div>
-				<div ng-hide="paragraph.line1">{{paragraph}}</div>
-				<div ng-show="paragraph.line1">{{paragraph.line1}}</div>
-				<div ng-show="paragraph.line2">{{paragraph.line2}}</div>
-				<div ng-show="paragraph.dict" class="text text-danger">[ {{paragraph.dict}} ]</div>
-				<div>&nbsp;</div>
-			</div>
+				<div ng-repeat="section in book.sections">
+					<li ng-repeat="chapter in section.chapters">
+						<a ng-click="getChapter(chapter.chapterTitle)" href="#"><small>{{ chapter.chapterTitle | agTitleCase }}</small></a>
+					</li>
+				</div>
+			</ul>
 		</div>
 	</div>
+
+	<div id="page-content-wrapper">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-5">&nbsp;</div>
+				<div class="col-md-7">
+					<div ng-show="currentChapter.chapterTitle">
+						<h3>{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
+					</div>
+				
+					<div ng-show="currentChapter">
+						<div ng-repeat="paragraph in currentChapter.paragraphs">
+							<div ng-show="paragraph.list">
+								<div ng-repeat="list in paragraph.list">
+									<li>{{list}}</li>
+								</div>
+								<br>
+							</div>
+							<div ng-hide="paragraph.line1">{{paragraph}}</div>
+							<div ng-show="paragraph.line1">{{paragraph.line1}}</div>
+							<div ng-show="paragraph.line2">{{paragraph.line2}}</div>
+							<div ng-show="paragraph.dict" class="text text-danger">[ {{paragraph.dict}} ]</div>
+							<div>&nbsp;</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Menu Toggle Script -->
+	    <script>
+	    $("#menu-toggle").click(function(e) {
+	        e.preventDefault();
+	        $("#wrapper").toggleClass("toggled");
+	    });
+	    </script>
+	</div>
+	
 </body>
 </html>

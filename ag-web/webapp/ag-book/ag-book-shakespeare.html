@@ -15,13 +15,15 @@
 	<script src="/ag-cdn/js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>
 	
-	<script src="js/ag-app-book.js"></script>
+	<script src="js/ag-book.js"></script>
+
 	<title>Ag:Shakespeare</title>
+	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">	
 </head>
 
 <body ng-app="AgBookApp" ng-controller="AgBookController" ng-init="init('shakespeare', 'prose')">
 	<!-- Navigation / Fixed navbar -->
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
 			
 			<div class="navbar-header">
@@ -55,7 +57,7 @@
 
 	<div class="container theme-showcase" role="main">
 		<div ng-show="currentChapter.chapterTitle">
-			<h3>{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
+			<h3 class="text text-danger">{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
 		</div>
 		
 		<!--  TODO elegantly display intro -->
@@ -65,12 +67,12 @@
 				<div ng-if="line.line_number != ''">
 					<span ng-if="line.speaker == currentChapter.paragraphs[$index-1].speaker">&nbsp;</span>
 					<span ng-if="line.speaker != currentChapter.paragraphs[$index-1].speaker" class="text text-danger pull-right">
-						<b>{{line.speaker | agTitleCase}}</b>
+						{{line.speaker | agTitleCase}}
 					</span>
 				</div>
 			</div>
 			<div class="col-sm-10">
-				<span ng-if="line.line_number == ''" class="text text-danger"><b>{{line.text_entry}}</b></span>
+				<span ng-if="line.line_number == ''" class="text text-warning"><i>{{line.text_entry}}</i></span>
 				<span ng-if="line.line_number != ''">{{line.text_entry}}</span>
 			</div>				
 			<div class="col-sm-12" ng-hide="line.text_entry">{{line}} &nbsp;</div>				

@@ -15,13 +15,15 @@
 	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>	
 	<script src="/ag-cdn/js/holder.js"></script>
 	
-	<script src="js/ag-app-pix.js"></script>
+	<script src="js/ag-pix.js"></script>
+
 	<title>Ag Pix: Tracy Aviary</title>
+	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">	
 </head>
 
 <body ng-app="AgPixApp" ng-controller="AgPixController" ng-init="init('tracy-aviary')">
 	<!-- Navigation / Fixed navbar -->
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
 			
 			<div class="navbar-header">
@@ -29,7 +31,7 @@
 					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="../index.html"><span class="text text-danger">Ag</span></a>
-				<a class="navbar-brand" href="#">{{imageList.title}}</a>				
+				<a class="navbar-brand" href="#"><span class="text text-info">{{imageList.title}}</span></a>				
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
@@ -47,8 +49,8 @@
 				<li ng-repeat="file in imageList.images" data-target="#carousel-pix" data-slide-to="{{$index}}" ng-class="$index==0 ? 'active' : ''"></li>
 			</ol>
 			<div class="carousel-inner">
-				<div ng-repeat="file in imageList.images" ng-class="$index==0 ? 'item active' : 'item'">
-					<img ng-src="assets/tracy-aviary/{{file}}" alt="{{$index}} {{file}} slide">
+				<div ng-repeat="image in imageList.images" ng-class="$index==0 ? 'item active' : 'item'">
+					<img ng-src="assets/{{imageDir}}/{{image}}" alt="{{$index}} {{image}} slide">
 				</div>
 			</div>
 			<a class="left carousel-control" href="#carousel-pix" role="button" data-slide="prev">

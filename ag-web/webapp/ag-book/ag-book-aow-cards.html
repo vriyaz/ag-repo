@@ -14,14 +14,16 @@
 	<script src="/ag-cdn/js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 	<script src="/ag-cdn/js/angular-1.3.0-beta.18/angular.min.js"></script>
 	
-	<script src="js/ag-app-book.js"></script>
+	<script src="js/ag-book.js"></script>
+	
 	<title>Ag:Art of War</title>
+	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">
 </head>
 
 <body ng-app="AgBookApp" ng-controller="AgBookController" ng-init="init('art-of-war', 'prose')">
 	
 	<!-- Navigation / Fixed navbar -->
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
 			
 			<div class="navbar-header">
@@ -55,14 +57,14 @@
 	<div class="container theme-showcase" role="main">
 		<div ng-show="currentChapter.chapterTitle == ''">		
 			<div class="row" ng-repeat="section in book.sections">
-				<h2>{{section.sectionTitle | agTitleCase}}<hr></h2>
+				<div><ag-heading ag-text="{{section.sectionTitle}}" /></div>
 				<div class="col-sm-3" ng-repeat="chapter in section.chapters">
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<a ng-click="getChapter(chapter.chapterTitle)">{{chapter.chapterTitle | agTitleCase}}</a>
+							<a ng-click="getChapter(chapter.chapterTitle)" href="#">{{chapter.chapterTitle | agTitleCase}}</a>
 						</div>
 						<div class="panel-body">
-							<br><br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -70,7 +72,7 @@
 		</div>
 
 		<div ng-show="currentChapter.chapterTitle">
-			<h3>{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
+			<ag-heading ag-text="{{currentChapter.chapterTitle}}" />
 		</div>
 		
 		<div ng-show="currentChapter">
