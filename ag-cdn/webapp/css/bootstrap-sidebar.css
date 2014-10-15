@@ -58,7 +58,7 @@
 
 .sidebar-nav li {
 	text-indent: 20px;
-	line-height: 40px;
+	line-height: 30px;
 }
 
 .sidebar-nav li a {
@@ -78,7 +78,7 @@
 }
 
 .sidebar-nav>.sidebar-brand {
-	height: 65px;
+	height: 35px;
 	font-size: 18px;
 	line-height: 60px;
 }
@@ -106,7 +106,7 @@
 		width: 0;
 	}
 	#page-content-wrapper {
-		padding: 20px;
+		padding: 10px;
 	}
 	#wrapper.toggled #page-content-wrapper {
 		position: relative;
