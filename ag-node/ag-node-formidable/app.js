@@ -1,4 +1,4 @@
-// simple node-js app to demo router, request handler and file uplod functions
+// simple node-js app to demo router, request handler and file upload functions
 
 var server   = require("./server");
 var router   = require("./router");

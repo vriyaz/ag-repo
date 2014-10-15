@@ -1,0 +1,14 @@
+{
+  "name": "ag-node-aaa",
+  "description": "node experiments",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "redis": "0.12.1",
+    "hiredis": "0.1.17",
+    "minimist": "1.1.0",
+    "less": "1.7.5",
+    "accounting": "0.4.1",
+    "underscore": "1.7.0"
+  }
+}
