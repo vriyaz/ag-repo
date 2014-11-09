@@ -1,12 +1,12 @@
 (function () {
     var app = angular.module('AgPixApp', []);
 
-    app.controller('AgPixController', ['$scope', '$http', function ($scope, $http) {
+    app.controller('AgPixController', ['$scope', '$http', '$location', function ($scope, $http, $location) {
     	$scope.imageList = {};
-    	
-        $scope.init = function(imageDir) {        	
-        	$scope.imageDir = imageDir;
-        	$http.get('assets/' + imageDir + '/image-list.json').success ($scope.load);
+        
+        $scope.init = function() {
+        	$scope.imageDir = $location.search()['id'];
+        	$http.get('assets/' + $scope.imageDir + '/image-list.json').success ($scope.load);
         };
         
         $scope.load = function(data) {
