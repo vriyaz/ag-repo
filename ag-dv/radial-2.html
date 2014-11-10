@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<head>
+    <meta HTTP-EQUIV="X-UA-COMPATIBLE" CONTENT="IE=EmulateIE9" >
+    <script type="text/javascript" src="../../tools-js/d3/d3.min.js"></script>
+    <script type="text/javascript" src="../../tools-js/radial/scripts/radialProgress.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="../../tools-js/radial/styles/style.css">
+
+    <style>
+
+        #test .arc2 {
+            stroke-weight:0.1;
+            fill: #3660b0;
+        }
+
+        #outer {
+            background:#FFFFFF;
+            border-radius: 5px;
+            color: #000;
+        }
+
+        #div1, #div2, #div3, #div4 {
+            width: 33%;
+            height: 200px;
+            box-sizing: border-box;
+            float: left;
+        }
+
+        #div2 .arc {
+            stroke-weight: 0.1;
+            fill: #f0a417;
+        }
+
+        #div2 .arc2 {
+            stroke-weight: 0.1;
+            fill: #b00d08;
+        }
+
+        #div3x .arc {
+            stroke-weight: 0.1;
+            fill: #1d871b;
+        }
+
+
+        .selectedRadial {
+            border-radius: 3px;
+            background: #f4f4f4;
+            color: #000;
+            box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+            -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+            border: 1px solid rgba(200,200,200,0.85);
+        }
+
+        .radial {
+            border-radius: 3px;
+            background: #FFFFFF;
+            color: #000;
+
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+<div id='outer' style="margin: 0px auto; margin-top:20px; padding:10px">
+    <div id="main" style="margin: 0px auto; ">
+        <div id="div1"></div>
+        <div id="div2"></div>
+        <div id="div3"></div>
+        <div id="div4"></div>
+        <div id="div5"></div>
+    </div>
+</div>
+<br>
+<div id="lineChart1"></div>
+
+
+
+<script language="JavaScript">
+
+    var div1=d3.select(document.getElementById('div1'));
+    var div2=d3.select(document.getElementById('div2'));
+    var div3=d3.select(document.getElementById('div3'));
+    var div4=d3.select(document.getElementById('div4'));
+
+    start();
+
+    function onClick1() {
+        deselect();
+        div1.attr("class","selectedRadial");
+    }
+
+    function onClick2() {
+        deselect();
+        div2.attr("class","selectedRadial");
+    }
+
+    function onClick3() {
+        deselect();
+        div3.attr("class","selectedRadial");
+    }
+
+    function labelFunction(val,min,max) {
+
+    }
+
+    function deselect() {
+        div1.attr("class","radial");
+        div2.attr("class","radial");
+        div3.attr("class","radial");
+    }
+
+    function start() {
+
+        
+        var rp1 = radialProgress(document.getElementById('div1'))
+                .label("RADIAL 1")
+                .diameter(150)
+                .value(37)
+                .color("#3660b0")
+                .render();
+
+        var rp2 = radialProgress(document.getElementById('div2'))
+                .label("RADIAL 2")
+                .diameter(150)
+                .value(132)
+                .render();
+
+        var rp3 = radialProgress(document.getElementById('div3'))
+                .label("RADIAL 3")
+                .diameter(150)
+                .minValue(100)
+                .maxValue(200)
+                .value(150)
+                .color("red")
+                .render();
+        
+
+        //The data for our line
+var lineData = [ { "x": 1,   "y": 5},  { "x": 20,  "y": 20}, { "x": 40,  "y": 10}, { "x": 60,  "y": 40}, { "x": 80,  "y": 5},  { "x": 100, "y": 60}];
+
+//This is the accessor function we talked about above
+var lineFunction = d3.svg.line()
+                         .x(function(d) { return d.x; })
+                         .y(function(d) { return d.y; })
+                         .interpolate("linear");
+
+//The SVG Container
+var svgContainer = d3.select(document.getElementById('lineChart1')).append("svg")
+                                    .attr("width", 200)
+                                    .attr("height", 200);
+
+//The line SVG Path we draw
+var lineGraph = svgContainer.append("path")
+                            .attr("d", lineFunction(lineData))
+                            .attr("stroke", "blue")
+                            .attr("stroke-width", 10    )
+                            .attr("fill", "none");
+
+    }
+
+    
+</script>
+
+</body>
+</html>
+
+<!--
+/**
+Copyright (c) 2014 BrightPoint Consulting, Inc.
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+              ->
