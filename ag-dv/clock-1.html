@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <head>
     <meta HTTP-EQUIV="X-UA-COMPATIBLE" CONTENT="IE=EmulateIE9" >
-    <script type="text/javascript" src="https://ericbullington.com/public/js/posts/zepto.js"></script>
-    <script type="text/javascript" src="../../tools-js/d3/d3.v2.js"></script>
-    <script type="text/javascript" src="clock-2.js"></script>
+    <script type="text/javascript" src="js-lib/d3/d3.v2.js"></script>
+    <script type="text/javascript" src="js-lib/angularjs/angular.js"></script>
+    <script type="text/javascript" src="js/clock-2.js"></script>
+    <script type="text/javascript" src="js/clock-3.js"></script>
 </head>
-<body>
-    <br>
-    <div class="clock1"></div>
-    <script>clock().class("clock1").color("red").diameter(100).render();</script>
+<body ng-app="ag">
+    <div class="clock1">
+        <script>clock().class("clock1").color("darkred").diameter(100).render();</script>
+    </div>
+    <div class="clock2">
+        <script>clock().class("clock2").color("darkred").diameter(100).render();</script>
+    </div>
+
+    <div id="a" ag-clock diameter="100" hand-color="red" color="black" fill="yes"></div>
 </body>
 </html>
