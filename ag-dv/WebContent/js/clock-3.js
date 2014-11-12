@@ -36,7 +36,7 @@ angular.module('agClock',[])
                             .attr("class", "clock outercircle").attr("stroke", _color).attr("stroke-width", 2);
                 clockGroup.append("svg:circle").attr("r", 4).attr("fill", _handColor).attr("class", "clock innercircle");
 
-                paint = function(data) {
+                var paint = function(data) {
                     var hourArc, minuteArc, secondArc;
                     var classHand = _id + "hand";
                     
@@ -83,10 +83,13 @@ angular.module('agClock',[])
                                 .attr("fill", "none");
                 };
                 
-                var stop = $interval(paint(), 1000)
-                scope.$on('$destroy', function() {
-                    // Make sure that the interval is destroyed too
-                    $interval.cancel(stop);
+                
+                var stop = $interval(paint, 1000);
+
+                // listen on DOM destroy (removal) event, and cancel the next UI update
+                // to prevent updating time after the DOM element was removed.
+                element.on('$destroy', function() {
+                  $interval.cancel(stop);
                 });
             }
         }

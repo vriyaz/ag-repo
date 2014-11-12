@@ -6,40 +6,31 @@ function clock(parent) {
     formatMinute = d3.time.format("%M");
     formatHour = d3.time.format("%H");
   
-    fields = function() {
-        var d, data, hour, minute, second;
-        d = new Date();
-        second = d.getSeconds();
-        minute = d.getMinutes();
-        hour = d.getHours() + minute / 60;
-        return data = [
-                        { "unit": "seconds", "text": formatSecond(d), "numeric": second }, 
-                        { "unit": "minutes", "text": formatMinute(d), "numeric": minute }, 
-                        { "unit": "hours", "text": formatHour(d), "numeric": hour }
-                      ];
-    };
-
-    pi = Math.PI;
     _diameter = 200;
     _radius = _diameter/2;
     _color = "red";
     _class = "clock";
 
-    scaleSecsMins = d3.scale.linear().domain([0, 59 + 59 / 60]).range([0, 2 * pi]);
-    scaleHours = d3.scale.linear().domain([0, 11 + 59 / 60]).range([0, 2 * pi]);
+    scaleSecsMins = d3.scale.linear().domain([0, 59 + 59 / 60]).range([0, 2 * Math.PI]);
+    scaleHours = d3.scale.linear().domain([0, 11 + 59 / 60]).range([0, 2 * Math.PI]);
 
     init = function() {
-        var offSetX = _radius, offSetY = _radius;
-        
-        vis = d3.selectAll("." + _class).append("svg:svg").attr("width", _diameter).attr("height", _diameter);
-        clockGroup = vis.append("svg:g").attr("transform", "translate(" + offSetX + "," + offSetY + ")");
-        clockGroup.append("svg:circle").attr("r", _radius * .95).attr("fill", "none").attr("class", "clock outercircle").attr("stroke", "black").attr("stroke-width", 2);
-        clockGroup.append("svg:circle").attr("r", 4).attr("fill", "black").attr("class", "clock innercircle");
+	    vis = d3.selectAll("." + _class).append("svg:svg").attr("width", _diameter).attr("height", _diameter);
+	    clockGroup = vis.append("svg:g").attr("transform", "translate(" + _radius + "," + _radius + ")");
+	    clockGroup.append("svg:circle").attr("r", _radius * .95).attr("fill", "none").attr("class", "clock outercircle").attr("stroke", "black").attr("stroke-width", 2);
+	    clockGroup.append("svg:circle").attr("r", 4).attr("fill", "black").attr("class", "clock innercircle");
     };
-
   
-    paint = function(data) {
-        var hourArc, minuteArc, secondArc;
+    paint = function() {
+    	var hourArc, minuteArc, secondArc;
+    	
+//    	console.log("r:" + _radius + ", d:" + _diameter);
+        var d = new Date();       
+        var data = [
+                        { "unit": "seconds", "numeric": d.getSeconds() }, 
+                        { "unit": "minutes", "numeric": d.getMinutes() }, 
+                        { "unit": "hours", "numeric": d.getHours() + d.getMinutes() / 60 }
+                      ];
 
         clockGroup.selectAll(".clockhand").remove();
 
@@ -100,13 +91,13 @@ function clock(parent) {
     };
     
     component.render = function() {
-        init();
-        paint(fields());
+    	init();
+        paint();
         component();
         return component;
     };
     
-    setInterval(function() { return paint(fields()); }, 1000);
+    var stop = setInterval(function() { return paint(); }, 1000);
     
     return component;
 };
