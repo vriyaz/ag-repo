@@ -1,11 +1,7 @@
 function clock(parent) {
-    var clockGroup, fields, formatHour, formatMinute, formatSecond, pi, render, scaleHours, scaleSecsMins, vis;
+    var clockGroup, init, paint, scaleHours, scaleSecsMins, vis;
     var _color, _radius, _diameter, _class;
     
-    formatSecond = d3.time.format("%S");
-    formatMinute = d3.time.format("%M");
-    formatHour = d3.time.format("%H");
-  
     _diameter = 200;
     _radius = _diameter/2;
     _color = "red";
