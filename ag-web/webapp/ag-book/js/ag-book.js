@@ -17,6 +17,8 @@
         
         $scope.load = function(data) {
         	$scope.book = data;
+        	$scope.sections = (data.books ? data.books : '');
+        	console.log($scope.books);
         };
         
         $scope.getChapter = function(title) {        	

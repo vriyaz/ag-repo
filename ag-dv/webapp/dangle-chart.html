@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en" ng-app="demo">
+<head>
+    <title>Dangle Demo</title>
+    <link rel="stylesheet" href="js-lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="js-lib/bootstrap/css/bootstrap-responsive.min.css">
+    
+    <script type="text/javacript" src="js-lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js-lib/d3/d3.v3.js"></script>
+    <script type="text/javascript" src="js-lib/angularjs/angular.min.js"></script>
+    <script type="text/javascript" src="js-lib/momentjs/moment.js"></script>
+
+    <script type="text/javascript" src="js/dangle-wip.js"></script>
+    <script type="text/javascript" src="js/dangle-chart.js"></script>    
+    <style>
+        .cred { fill: darkred; stroke: darkred; stroke-width: 1.0px }
+        .cred path { fill: none }
+        .cred text { fill: black; stroke: none; shape-rendering: crispEdges; font-size: 12px; }
+        .cred line { fill: black; stroke: #000; stroke-width: 1.1px; shape-rendering: crispEdges; }
+        
+        .cred.line { fill: none; stroke: #058dc7; stroke-width: 6.0px; }
+        .cred.line.points { fill: #058dc7; stroke: #fff; stroke-width: 3.0px; }
+        .cred.fill { fill: #9ecae1; fill-opacity: 0.2; }
+        
+        .cred-donut-progress text { stroke: none; shape-rendering: crispEdges; }
+
+    </style>
+</head>
+<body ng-controller="DemoCtrl">
+   
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div>
+                    <h4>dangle.js Examples <button ng-click="switchResults()">randomize</button>
+                    </h4>
+                </div>
+                <hr>
+                <div>
+                    all about dates -  {{ dates }}
+                </div>
+            </div>
+            <div class="row-fluid">                
+                    <div class="row-fluid">
+                        <div><strong>Pie &amp; Donut Chart Example</strong></div>
+                        <div class="span2">
+                            <fs:donut outer-radius="100" inner-radius="25" duration="750" on-click="switchResults"  class="cred" bind="results.Product"/>
+                        </div>
+
+                        
+                        <div class="span2">
+                            <fs:pie on-click="switchResults" font-color="white" bind="results.Sex" />
+                        </div>
+                    </div>  
+                <hr>
+                
+                    <div class="row-fluid">
+                        <div><strong>Date Histogram Example</strong></div>
+                        <div class="span5">
+                            <fs:date-histo duration="250" on-click="switchResults" bind="results.Times" class="cred" label="count" />
+                        </div>
+                        <div><strong>Bar Chart Example</strong></div>
+                        <div class="span5">
+                            <fs:bar width="500" height="100" duration="750" on-click="switchResults" class="cred" bind="results.Product" />
+                        </div>
+                    </div>
+                
+                    <hr>
+                
+                    <div class="row-fluid">
+                        <div><strong>Area Chart Example</strong></div>
+                        <div class="span5">
+                            <fs:area bind="results.Times" duration="750" interpolate="true" class="cred" on-click="switchResults" />
+                        </div>
+
+                        <div><strong>Donut Progress Example</strong></div>
+                        <div class="span2">
+                            <fs:donut-progress outer-radius="100" inner-radius="50" duration="750" on-click="switchResults"  color="darkgreen" font-size="24" class="cred-donut-progress" bind="results.Progress" on-click="switchResults"/>
+                        </div>
+
+                        <div class="span2">
+                            <fs:donut-progress outer-radius="100" inner-radius="75" duration="750" on-click="switchResults"  color="darkred" font-size="40" class="cred-donut-progress" bind="results.Progress" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+</body>
+</html>

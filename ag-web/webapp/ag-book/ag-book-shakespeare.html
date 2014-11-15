@@ -21,7 +21,7 @@
 	<script src="js/ag-book.js"></script>
 
 	<title>Ag:Shakespeare</title>
-	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">	
+	<link rel="icon" type="image/png" href="/ag-web/images/ag.png">
 </head>
 
 <body ng-app="AgBookApp" ng-controller="AgBookController" ng-init="init('ws-plays', 'prose')">
@@ -39,11 +39,11 @@
 			
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li class="dropdown" ng-repeat="section in book.sections">
+					<li class="dropdown" ng-repeat="section in sections">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{section.sectionTitle | agTitleCase}} <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li ng-repeat="chapter in section.chapters | orderBy:chapterTitle">
-								<a ng-click="getChapter(chapter.chapterTitle)">{{ chapter.chapterTitle | agTitleCase}}</a>
+							<li ng-repeat="chapter in section.chapters">
+								<a ng-click="getChapter(chapter)">{{ chapter | agTitleCase}}</a>
 							</li>
 						</ul>
 					</li>
@@ -56,6 +56,23 @@
 
 
 	<div class="container theme-showcase" role="main">
+	
+		<div ng-show="currentChapter.chapterTitle == ''">		
+			<div class="row" ng-repeat="section in sections">
+				<div><ag-heading ag-text="{{section.sectionTitle}}" /></div>
+				<div class="col-sm-3" ng-repeat="chapter in section.chapters">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<a ng-click="getChapter(chapter)" href="#">{{chapter | agTitleCase}}</a>
+						</div>
+						<div class="panel-body">
+							<br>
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+		
 		<div ng-show="currentChapter.chapterTitle">
 			<h3 class="text text-danger">{{currentChapter.chapterTitle | agTitleCase}}<hr></h3>
 		</div>
