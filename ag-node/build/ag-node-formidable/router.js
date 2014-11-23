@@ -1,0 +1,1 @@
+function route(o,e,t,n){console.log("about to route request for "+e),"function"==typeof o[e]?o[e](t,n):(console.log("no req handler found for "+e),t.writeHead(404,{"Content-Type":"text/plain"}),t.write("404 Not found"),t.end())}exports.route=route;

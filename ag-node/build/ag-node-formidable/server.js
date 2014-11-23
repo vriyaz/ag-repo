@@ -1,0 +1,1 @@
+function start(e,r){function t(t,a){console.log("//// request received ...");var o=url.parse(t.url).pathname;console.log("pathname:"+o),e(r,o,a,t)}http.createServer(t).listen(8888),console.log("server started ...")}var http=require("http"),url=require("url");exports.start=start;

@@ -1,0 +1,1 @@
+var express=require("express"),app=express();app.get("/hello.txt",function(e,s){s.send("hello world")});var server=app.listen(3e3,function(){console.log("listening on port %d",server.address().port)});app.set("views","./views"),app.set("view engine","jade"),app.get("/",function(e,s){s.render("index",{title:"Hey",message:"Hello there!"})});
