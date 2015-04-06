@@ -1,0 +1,8 @@
+buildscript {
+  repositories {
+    jcenter()
+  }
+  dependencies {
+    classpath "com.eriwen:gradle-js-plugin:1.12.1"
+  }
+}
